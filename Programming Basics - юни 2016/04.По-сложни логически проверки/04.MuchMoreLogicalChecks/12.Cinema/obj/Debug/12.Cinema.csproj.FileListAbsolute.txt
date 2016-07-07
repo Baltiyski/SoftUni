@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\12.Cinema\bin\Debug\12.Cinema.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\12.Cinema\bin\Debug\12.Cinema.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\12.Cinema\bin\Debug\12.Cinema.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\12.Cinema\obj\Debug\12.Cinema.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\12.Cinema\obj\Debug\12.Cinema.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\12.Cinema\obj\Debug\12.Cinema.pdb

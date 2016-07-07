@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\02.FloatDouble\bin\Debug\02.FloatDouble.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\02.FloatDouble\bin\Debug\02.FloatDouble.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\02.FloatDouble\bin\Debug\02.FloatDouble.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\02.FloatDouble\obj\Debug\02.FloatDouble.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\02.FloatDouble\obj\Debug\02.FloatDouble.pdb

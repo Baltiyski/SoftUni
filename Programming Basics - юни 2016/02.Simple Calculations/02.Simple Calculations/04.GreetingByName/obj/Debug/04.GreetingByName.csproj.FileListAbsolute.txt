@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\04.GreetingByName\bin\Debug\04.GreetingByName.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\04.GreetingByName\bin\Debug\04.GreetingByName.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\04.GreetingByName\bin\Debug\04.GreetingByName.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\04.GreetingByName\obj\Debug\04.GreetingByName.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\04.GreetingByName\obj\Debug\04.GreetingByName.pdb

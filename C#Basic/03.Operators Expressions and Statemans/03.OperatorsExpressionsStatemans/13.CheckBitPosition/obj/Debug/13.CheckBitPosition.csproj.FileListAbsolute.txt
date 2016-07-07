@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\13.CheckBitPosition\bin\Debug\13.CheckBitPosition.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\13.CheckBitPosition\bin\Debug\13.CheckBitPosition.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\13.CheckBitPosition\bin\Debug\13.CheckBitPosition.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\13.CheckBitPosition\obj\Debug\13.CheckBitPosition.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\13.CheckBitPosition\obj\Debug\13.CheckBitPosition.pdb

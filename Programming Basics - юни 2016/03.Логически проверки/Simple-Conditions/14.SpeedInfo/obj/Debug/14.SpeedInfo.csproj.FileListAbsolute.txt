@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\14.SpeedInfo\bin\Debug\14.SpeedInfo.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\14.SpeedInfo\bin\Debug\14.SpeedInfo.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\14.SpeedInfo\bin\Debug\14.SpeedInfo.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\14.SpeedInfo\obj\Debug\14.SpeedInfo.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\14.SpeedInfo\obj\Debug\14.SpeedInfo.pdb

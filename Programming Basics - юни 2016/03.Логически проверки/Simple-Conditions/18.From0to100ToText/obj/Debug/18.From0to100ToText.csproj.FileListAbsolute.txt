@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\18.From0to100ToText\bin\Debug\18.From0to100ToText.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\18.From0to100ToText\bin\Debug\18.From0to100ToText.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\18.From0to100ToText\bin\Debug\18.From0to100ToText.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\18.From0to100ToText\obj\Debug\18.From0to100ToText.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\18.From0to100ToText\obj\Debug\18.From0to100ToText.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\18.From0to100ToText\obj\Debug\18.From0to100ToText.pdb

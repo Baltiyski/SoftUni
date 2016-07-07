@@ -1,0 +1,8 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\08.QuotedStrings\bin\Debug\08.QuotedStrings.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\08.QuotedStrings\bin\Debug\08.QuotedStrings.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\08.QuotedStrings\bin\Debug\08.QuotedStrings.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\08.QuotedStrings\obj\Debug\08.QuotedStrings.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\08.QuotedStrings\obj\Debug\08.QuotedStrings.pdb
+D:\Work\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\08.QuotedStrings\bin\Debug\08.QuotedStrings.exe.config
+D:\Work\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\08.QuotedStrings\obj\Debug\08.QuotedStrings.exe
+D:\Work\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\08.QuotedStrings\obj\Debug\08.QuotedStrings.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\05.SumFactOverPowOfX\bin\Debug\05.SumFactOverPowOfX.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\05.SumFactOverPowOfX\bin\Debug\05.SumFactOverPowOfX.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\05.SumFactOverPowOfX\bin\Debug\05.SumFactOverPowOfX.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\05.SumFactOverPowOfX\obj\Debug\05.SumFactOverPowOfX.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\05.SumFactOverPowOfX\obj\Debug\05.SumFactOverPowOfX.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\05.SumFactOverPowOfX\obj\Debug\05.SumFactOverPowOfX.pdb

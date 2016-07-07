@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\02.DivisibleByThreeAndSeven\bin\Debug\02.DivisibleByThreeAndSeven.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\02.DivisibleByThreeAndSeven\bin\Debug\02.DivisibleByThreeAndSeven.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\02.DivisibleByThreeAndSeven\bin\Debug\02.DivisibleByThreeAndSeven.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\02.DivisibleByThreeAndSeven\obj\Debug\02.DivisibleByThreeAndSeven.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\02.DivisibleByThreeAndSeven\obj\Debug\02.DivisibleByThreeAndSeven.pdb

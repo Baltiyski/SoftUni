@@ -1,0 +1,1 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\12.BankAccount\bin\Debug\12.BankAccount.exe.config

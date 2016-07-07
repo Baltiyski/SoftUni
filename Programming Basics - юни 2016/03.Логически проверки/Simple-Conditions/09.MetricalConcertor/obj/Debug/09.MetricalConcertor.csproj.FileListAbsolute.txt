@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\09.MetricalConcertor\bin\Debug\09.MetricalConcertor.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\09.MetricalConcertor\bin\Debug\09.MetricalConcertor.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\09.MetricalConcertor\bin\Debug\09.MetricalConcertor.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\09.MetricalConcertor\obj\Debug\09.MetricalConcertor.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\09.MetricalConcertor\obj\Debug\09.MetricalConcertor.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\09.MetricalConcertor\obj\Debug\09.MetricalConcertor.pdb

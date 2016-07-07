@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SquareArea", "02.SquareArea\02.SquareArea.csproj", "{B5FAA51E-A600-4381-A10E-2F70238F700D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.InchesToCentimeters", "03.InchesToCentimeters\03.InchesToCentimeters.csproj", "{2578B4FE-39B9-4E37-AD48-FF6752664418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GreetingByName", "04.GreetingByName\04.GreetingByName.csproj", "{D37C0774-7FF9-4E8F-A3C4-E37256708B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FAA51E-A600-4381-A10E-2F70238F700D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FAA51E-A600-4381-A10E-2F70238F700D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FAA51E-A600-4381-A10E-2F70238F700D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FAA51E-A600-4381-A10E-2F70238F700D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2578B4FE-39B9-4E37-AD48-FF6752664418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2578B4FE-39B9-4E37-AD48-FF6752664418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2578B4FE-39B9-4E37-AD48-FF6752664418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2578B4FE-39B9-4E37-AD48-FF6752664418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37C0774-7FF9-4E8F-A3C4-E37256708B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37C0774-7FF9-4E8F-A3C4-E37256708B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37C0774-7FF9-4E8F-A3C4-E37256708B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37C0774-7FF9-4E8F-A3C4-E37256708B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

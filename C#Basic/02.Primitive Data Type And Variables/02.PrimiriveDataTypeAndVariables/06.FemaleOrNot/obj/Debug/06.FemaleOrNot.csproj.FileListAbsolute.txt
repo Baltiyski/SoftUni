@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\06.FemaleOrNot\bin\Debug\06.FemaleOrNot.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\06.FemaleOrNot\bin\Debug\06.FemaleOrNot.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\06.FemaleOrNot\bin\Debug\06.FemaleOrNot.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\06.FemaleOrNot\obj\Debug\06.FemaleOrNot.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\06.FemaleOrNot\obj\Debug\06.FemaleOrNot.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\06.FemaleOrNot\obj\Debug\06.FemaleOrNot.pdb

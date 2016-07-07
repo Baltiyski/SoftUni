@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\08.SumSeconds\bin\Debug\08.SumSeconds.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\08.SumSeconds\bin\Debug\08.SumSeconds.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\08.SumSeconds\bin\Debug\08.SumSeconds.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\08.SumSeconds\obj\Debug\08.SumSeconds.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\08.SumSeconds\obj\Debug\08.SumSeconds.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\08.SumSeconds\obj\Debug\08.SumSeconds.pdb

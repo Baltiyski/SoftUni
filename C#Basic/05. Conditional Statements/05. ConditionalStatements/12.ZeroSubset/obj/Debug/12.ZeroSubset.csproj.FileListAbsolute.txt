@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

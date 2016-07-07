@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\13.EqualWords\bin\Debug\13.EqualWords.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\13.EqualWords\bin\Debug\13.EqualWords.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\13.EqualWords\bin\Debug\13.EqualWords.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\13.EqualWords\obj\Debug\13.EqualWords.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\13.EqualWords\obj\Debug\13.EqualWords.pdb

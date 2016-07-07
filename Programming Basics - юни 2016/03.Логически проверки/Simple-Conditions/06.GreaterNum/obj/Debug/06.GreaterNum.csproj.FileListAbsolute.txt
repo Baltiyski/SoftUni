@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.GreaterNum\bin\Debug\06.GreaterNum.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.GreaterNum\bin\Debug\06.GreaterNum.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.GreaterNum\bin\Debug\06.GreaterNum.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.GreaterNum\obj\Debug\06.GreaterNum.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.GreaterNum\obj\Debug\06.GreaterNum.pdb

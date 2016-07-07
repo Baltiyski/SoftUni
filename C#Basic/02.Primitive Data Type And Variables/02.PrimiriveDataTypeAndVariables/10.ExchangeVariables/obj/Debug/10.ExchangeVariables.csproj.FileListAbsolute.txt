@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\10.ExchangeVariables\bin\Debug\10.ExchangeVariables.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\10.ExchangeVariables\bin\Debug\10.ExchangeVariables.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\10.ExchangeVariables\bin\Debug\10.ExchangeVariables.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\10.ExchangeVariables\obj\Debug\10.ExchangeVariables.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\10.ExchangeVariables\obj\Debug\10.ExchangeVariables.pdb

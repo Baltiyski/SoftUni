@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.From0To10\bin\Debug\06.From0To10.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.From0To10\bin\Debug\06.From0To10.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.From0To10\bin\Debug\06.From0To10.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.From0To10\obj\Debug\06.From0To10.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.From0To10\obj\Debug\06.From0To10.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\06.From0To10\obj\Debug\06.From0To10.csprojResolveAssemblyReference.cache

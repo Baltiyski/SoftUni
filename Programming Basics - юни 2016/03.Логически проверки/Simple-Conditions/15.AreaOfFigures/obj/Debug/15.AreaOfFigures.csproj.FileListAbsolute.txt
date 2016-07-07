@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\15.AreaOfFigures\bin\Debug\15.AreaOfFigures.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\15.AreaOfFigures\bin\Debug\15.AreaOfFigures.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\15.AreaOfFigures\bin\Debug\15.AreaOfFigures.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\15.AreaOfFigures\obj\Debug\15.AreaOfFigures.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\15.AreaOfFigures\obj\Debug\15.AreaOfFigures.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\15.AreaOfFigures\obj\Debug\15.AreaOfFigures.pdb

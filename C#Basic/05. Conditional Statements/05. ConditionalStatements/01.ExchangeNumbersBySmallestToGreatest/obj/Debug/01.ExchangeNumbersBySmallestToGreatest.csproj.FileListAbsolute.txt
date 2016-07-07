@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\01.ExchangeNumbersBySmallestToGreatest\bin\Debug\01.ExchangeNumbersBySmallestToGreatest.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\01.ExchangeNumbersBySmallestToGreatest\bin\Debug\01.ExchangeNumbersBySmallestToGreatest.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\01.ExchangeNumbersBySmallestToGreatest\bin\Debug\01.ExchangeNumbersBySmallestToGreatest.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\01.ExchangeNumbersBySmallestToGreatest\obj\Debug\01.ExchangeNumbersBySmallestToGreatest.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\01.ExchangeNumbersBySmallestToGreatest\obj\Debug\01.ExchangeNumbersBySmallestToGreatest.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\01.ExchangeNumbersBySmallestToGreatest\obj\Debug\01.ExchangeNumbersBySmallestToGreatest.pdb

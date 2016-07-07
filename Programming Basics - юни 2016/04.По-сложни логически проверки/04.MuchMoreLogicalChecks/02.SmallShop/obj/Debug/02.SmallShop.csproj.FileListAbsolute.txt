@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\02.SmallShop\bin\Debug\02.SmallShop.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\02.SmallShop\bin\Debug\02.SmallShop.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\02.SmallShop\bin\Debug\02.SmallShop.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\02.SmallShop\obj\Debug\02.SmallShop.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\02.SmallShop\obj\Debug\02.SmallShop.pdb

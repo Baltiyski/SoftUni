@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\07.StringsAndObjects\obj\Debug\07.StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\07.StringsAndObjects\obj\Debug\07.StringsAndObjects.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\07.StringsAndObjects\obj\Debug\07.StringsAndObjects.pdb

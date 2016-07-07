@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\07.Sort3NumbersInDescendingOrder\bin\Debug\07.Sort3NumbersInDescendingOrder.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\07.Sort3NumbersInDescendingOrder\bin\Debug\07.Sort3NumbersInDescendingOrder.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\07.Sort3NumbersInDescendingOrder\bin\Debug\07.Sort3NumbersInDescendingOrder.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\07.Sort3NumbersInDescendingOrder\obj\Debug\07.Sort3NumbersInDescendingOrder.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\07.Sort3NumbersInDescendingOrder\obj\Debug\07.Sort3NumbersInDescendingOrder.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\07.Sort3NumbersInDescendingOrder\obj\Debug\07.Sort3NumbersInDescendingOrder.pdb

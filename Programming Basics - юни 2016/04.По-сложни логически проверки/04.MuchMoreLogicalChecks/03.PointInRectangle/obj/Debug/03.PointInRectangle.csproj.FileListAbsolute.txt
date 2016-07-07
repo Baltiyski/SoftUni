@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\03.PointInRectangle\bin\Debug\03.PointInRectangle.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\03.PointInRectangle\bin\Debug\03.PointInRectangle.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\03.PointInRectangle\bin\Debug\03.PointInRectangle.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\03.PointInRectangle\obj\Debug\03.PointInRectangle.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\03.PointInRectangle\obj\Debug\03.PointInRectangle.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\03.PointInRectangle\obj\Debug\03.PointInRectangle.pdb

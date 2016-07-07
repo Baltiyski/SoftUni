@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\05.InvalidNumber\bin\Debug\05.InvalidNumber.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\05.InvalidNumber\obj\Debug\05.InvalidNumber.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\05.InvalidNumber\obj\Debug\05.InvalidNumber.pdb

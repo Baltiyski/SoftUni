@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\16.TimePlus15Minutes\bin\Debug\16.TimePlus15Minutes.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\16.TimePlus15Minutes\bin\Debug\16.TimePlus15Minutes.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\16.TimePlus15Minutes\bin\Debug\16.TimePlus15Minutes.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\16.TimePlus15Minutes\obj\Debug\16.TimePlus15Minutes.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\16.TimePlus15Minutes\obj\Debug\16.TimePlus15Minutes.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\16.TimePlus15Minutes\obj\Debug\16.TimePlus15Minutes.pdb

@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\03.Excellent-or-Not\bin\Debug\03.Excellent-or-Not.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\03.Excellent-or-Not\bin\Debug\03.Excellent-or-Not.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\03.Excellent-or-Not\bin\Debug\03.Excellent-or-Not.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\03.Excellent-or-Not\obj\Debug\03.Excellent-or-Not.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\03.Excellent-or-Not\obj\Debug\03.Excellent-or-Not.pdb

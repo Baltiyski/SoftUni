@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\03.PlayCard\bin\Debug\03.PlayCard.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\03.PlayCard\bin\Debug\03.PlayCard.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\03.PlayCard\bin\Debug\03.PlayCard.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\03.PlayCard\obj\Debug\03.PlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\03.PlayCard\obj\Debug\03.PlayCard.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\03.PlayCard\obj\Debug\03.PlayCard.pdb

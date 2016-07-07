@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\02.SquareArea\bin\Debug\02.SquareArea.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\02.SquareArea\bin\Debug\02.SquareArea.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\02.SquareArea\bin\Debug\02.SquareArea.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\02.SquareArea\obj\Debug\02.SquareArea.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\02.SquareArea\obj\Debug\02.SquareArea.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Simple Calculations\02.Simple Calculations\02.SquareArea\obj\Debug\02.SquareArea.pdb

@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\08.TradeComission\bin\Debug\08.TradeComission.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\08.TradeComission\bin\Debug\08.TradeComission.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\08.TradeComission\bin\Debug\08.TradeComission.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\08.TradeComission\obj\Debug\08.TradeComission.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\08.TradeComission\obj\Debug\08.TradeComission.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\08.TradeComission\obj\Debug\08.TradeComission.pdb

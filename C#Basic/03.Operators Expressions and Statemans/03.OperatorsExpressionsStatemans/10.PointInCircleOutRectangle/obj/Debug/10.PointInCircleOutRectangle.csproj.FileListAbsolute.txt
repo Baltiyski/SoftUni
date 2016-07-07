@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\10.PointInCircleOutRectangle\bin\Debug\10.PointInCircleOutRectangle.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\10.PointInCircleOutRectangle\bin\Debug\10.PointInCircleOutRectangle.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\10.PointInCircleOutRectangle\bin\Debug\10.PointInCircleOutRectangle.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\10.PointInCircleOutRectangle\obj\Debug\10.PointInCircleOutRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\10.PointInCircleOutRectangle\obj\Debug\10.PointInCircleOutRectangle.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\10.PointInCircleOutRectangle\obj\Debug\10.PointInCircleOutRectangle.pdb

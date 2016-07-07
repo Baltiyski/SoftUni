@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\01.PersonalTitle\bin\Debug\01.PersonalTitle.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\01.PersonalTitle\bin\Debug\01.PersonalTitle.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\01.PersonalTitle\bin\Debug\01.PersonalTitle.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\01.PersonalTitle\obj\Debug\01.PersonalTitle.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\01.PersonalTitle\obj\Debug\01.PersonalTitle.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\01.PersonalTitle\obj\Debug\01.PersonalTitle.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\03.MinMaxSumNAverageFromNumbers\bin\Debug\03.MinMaxSumNAverageFromNumbers.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\03.MinMaxSumNAverageFromNumbers\bin\Debug\03.MinMaxSumNAverageFromNumbers.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\03.MinMaxSumNAverageFromNumbers\bin\Debug\03.MinMaxSumNAverageFromNumbers.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\03.MinMaxSumNAverageFromNumbers\obj\Debug\03.MinMaxSumNAverageFromNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\03.MinMaxSumNAverageFromNumbers\obj\Debug\03.MinMaxSumNAverageFromNumbers.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\03.MinMaxSumNAverageFromNumbers\obj\Debug\03.MinMaxSumNAverageFromNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\09.CopyRightTriangle\obj\Debug\09.CopyRightTriangle.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\09.CopyRightTriangle\obj\Debug\09.CopyRightTriangle.pdb

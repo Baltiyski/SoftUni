@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\04.EvenOrOdd\bin\Debug\04.EvenOrOdd.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\04.EvenOrOdd\bin\Debug\04.EvenOrOdd.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\04.EvenOrOdd\bin\Debug\04.EvenOrOdd.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\04.EvenOrOdd\obj\Debug\04.EvenOrOdd.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\04.EvenOrOdd\obj\Debug\04.EvenOrOdd.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\04.EvenOrOdd\obj\Debug\04.EvenOrOdd.pdb

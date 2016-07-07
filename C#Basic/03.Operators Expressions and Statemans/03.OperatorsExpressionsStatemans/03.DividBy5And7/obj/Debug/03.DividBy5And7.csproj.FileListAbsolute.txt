@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\03.DividBy5And7\bin\Debug\03.DividBy5And7.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\03.DividBy5And7\bin\Debug\03.DividBy5And7.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\03.DividBy5And7\bin\Debug\03.DividBy5And7.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\03.DividBy5And7\obj\Debug\03.DividBy5And7.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\03.DividBy5And7\obj\Debug\03.DividBy5And7.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\03.DividBy5And7\obj\Debug\03.DividBy5And7.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\08.DigitsAsWords\bin\Debug\08.DigitsAsWords.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\08.DigitsAsWords\bin\Debug\08.DigitsAsWords.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\08.DigitsAsWords\bin\Debug\08.DigitsAsWords.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\08.DigitsAsWords\obj\Debug\08.DigitsAsWords.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\08.DigitsAsWords\obj\Debug\08.DigitsAsWords.pdb

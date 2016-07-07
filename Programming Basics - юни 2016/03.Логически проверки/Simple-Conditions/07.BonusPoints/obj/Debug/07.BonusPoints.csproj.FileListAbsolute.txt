@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\07.BonusPoints\bin\Debug\07.BonusPoints.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\07.BonusPoints\bin\Debug\07.BonusPoints.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\07.BonusPoints\bin\Debug\07.BonusPoints.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\07.BonusPoints\obj\Debug\07.BonusPoints.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\07.BonusPoints\obj\Debug\07.BonusPoints.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\07.BonusPoints\obj\Debug\07.BonusPoints.pdb

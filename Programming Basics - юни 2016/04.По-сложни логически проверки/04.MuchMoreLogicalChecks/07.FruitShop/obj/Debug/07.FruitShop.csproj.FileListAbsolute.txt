@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\07.FruitShop\bin\Debug\07.FruitShop.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\07.FruitShop\bin\Debug\07.FruitShop.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\07.FruitShop\bin\Debug\07.FruitShop.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\07.FruitShop\obj\Debug\07.FruitShop.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\07.FruitShop\obj\Debug\07.FruitShop.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\04.По-сложни логически проверки\04.MuchMoreLogicalChecks\07.FruitShop\obj\Debug\07.FruitShop.pdb

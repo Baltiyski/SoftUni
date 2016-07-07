@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\08.FromOneToN\bin\Debug\08.FromOneToN.exe.config
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\08.FromOneToN\bin\Debug\08.FromOneToN.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\08.FromOneToN\bin\Debug\08.FromOneToN.pdb
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\08.FromOneToN\obj\Debug\08.FromOneToN.exe
+C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\08.FromOneToN\obj\Debug\08.FromOneToN.pdb

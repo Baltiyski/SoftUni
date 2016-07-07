@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\17.ThreeEqualNumbers\bin\Debug\17.ThreeEqualNumbers.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\17.ThreeEqualNumbers\bin\Debug\17.ThreeEqualNumbers.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\17.ThreeEqualNumbers\bin\Debug\17.ThreeEqualNumbers.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\17.ThreeEqualNumbers\obj\Debug\17.ThreeEqualNumbers.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\17.ThreeEqualNumbers\obj\Debug\17.ThreeEqualNumbers.pdb

@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\02.Excellent-Result\bin\Debug\02.Excellent-Result.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\02.Excellent-Result\bin\Debug\02.Excellent-Result.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\02.Excellent-Result\bin\Debug\02.Excellent-Result.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\02.Excellent-Result\obj\Debug\02.Excellent-Result.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\02.Excellent-Result\obj\Debug\02.Excellent-Result.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\02.Логически проверки\Simple-Conditions\02.Excellent-Result\obj\Debug\02.Excellent-Result.pdb
