@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\03.LatinLetters\bin\Debug\03.LatinLetters.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\03.LatinLetters\bin\Debug\03.LatinLetters.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\03.LatinLetters\bin\Debug\03.LatinLetters.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\03.LatinLetters\obj\Debug\03.LatinLetters.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\03.LatinLetters\obj\Debug\03.LatinLetters.pdb

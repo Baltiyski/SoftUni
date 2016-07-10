@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.pdb

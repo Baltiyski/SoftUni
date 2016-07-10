@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\04.SumNumbers\bin\Debug\04.SumNumbers.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\04.SumNumbers\bin\Debug\04.SumNumbers.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\04.SumNumbers\bin\Debug\04.SumNumbers.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\04.SumNumbers\obj\Debug\04.SumNumbers.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\04.SumNumbers\obj\Debug\04.SumNumbers.pdb

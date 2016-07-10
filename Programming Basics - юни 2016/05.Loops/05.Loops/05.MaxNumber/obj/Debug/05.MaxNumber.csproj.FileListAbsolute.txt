@@ -1,0 +1,5 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\05.MaxNumber\bin\Debug\05.MaxNumber.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\05.MaxNumber\bin\Debug\05.MaxNumber.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\05.MaxNumber\bin\Debug\05.MaxNumber.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\05.MaxNumber\obj\Debug\05.MaxNumber.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\05.MaxNumber\obj\Debug\05.MaxNumber.pdb

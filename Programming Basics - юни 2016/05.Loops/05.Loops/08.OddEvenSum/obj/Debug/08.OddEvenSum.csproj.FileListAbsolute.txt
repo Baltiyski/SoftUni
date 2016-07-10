@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.pdb
