@@ -1,0 +1,10 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\bin\Debug\10.TurtleFormApplication.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\bin\Debug\10.TurtleFormApplication.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\bin\Debug\10.TurtleFormApplication.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\bin\Debug\Nakov.TurtleGraphics.dll
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\obj\Debug\10.TurtleFormApplication.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\obj\Debug\_10.TurtleFormApplication.Form1.resources
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\obj\Debug\_10.TurtleFormApplication.Properties.Resources.resources
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\obj\Debug\10.TurtleFormApplication.csproj.GenerateResource.Cache
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\obj\Debug\10.TurtleFormApplication.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\10.TurtleFormApplication\obj\Debug\10.TurtleFormApplication.pdb
