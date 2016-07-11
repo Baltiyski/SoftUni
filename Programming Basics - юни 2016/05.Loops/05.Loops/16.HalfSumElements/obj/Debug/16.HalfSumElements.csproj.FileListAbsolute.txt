@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\16.HalfSumElements\bin\Debug\16.HalfSumElements.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\16.HalfSumElements\bin\Debug\16.HalfSumElements.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\16.HalfSumElements\bin\Debug\16.HalfSumElements.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\16.HalfSumElements\obj\Debug\16.HalfSumElements.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\16.HalfSumElements\obj\Debug\16.HalfSumElements.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\16.HalfSumElements\obj\Debug\16.HalfSumElements.pdb

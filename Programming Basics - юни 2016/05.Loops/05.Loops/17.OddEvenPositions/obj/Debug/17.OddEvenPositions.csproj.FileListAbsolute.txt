@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\17.OddEvenPositions\bin\Debug\17.OddEvenPositions.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\17.OddEvenPositions\bin\Debug\17.OddEvenPositions.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\17.OddEvenPositions\bin\Debug\17.OddEvenPositions.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\17.OddEvenPositions\obj\Debug\17.OddEvenPositions.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\17.OddEvenPositions\obj\Debug\17.OddEvenPositions.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\17.OddEvenPositions\obj\Debug\17.OddEvenPositions.pdb

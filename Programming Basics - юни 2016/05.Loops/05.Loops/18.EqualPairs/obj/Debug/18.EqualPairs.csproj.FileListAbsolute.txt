@@ -1,0 +1,6 @@
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\18.EqualPairs\bin\Debug\18.EqualPairs.exe.config
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\18.EqualPairs\bin\Debug\18.EqualPairs.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\18.EqualPairs\bin\Debug\18.EqualPairs.pdb
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\18.EqualPairs\obj\Debug\18.EqualPairs.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\18.EqualPairs\obj\Debug\18.EqualPairs.exe
+E:\Work\SoftUni\Programming Basics - юни 2016\05.Loops\05.Loops\18.EqualPairs\obj\Debug\18.EqualPairs.pdb
