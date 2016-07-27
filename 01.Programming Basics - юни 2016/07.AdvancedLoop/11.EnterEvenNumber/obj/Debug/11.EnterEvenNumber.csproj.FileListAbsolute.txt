@@ -1,0 +1,5 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.pdb

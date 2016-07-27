@@ -1,0 +1,5 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\03.2PowerOfByN\bin\Debug\03.2PowerOfByN.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\03.2PowerOfByN\bin\Debug\03.2PowerOfByN.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\03.2PowerOfByN\bin\Debug\03.2PowerOfByN.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\03.2PowerOfByN\obj\Debug\03.2PowerOfByN.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\03.2PowerOfByN\obj\Debug\03.2PowerOfByN.pdb

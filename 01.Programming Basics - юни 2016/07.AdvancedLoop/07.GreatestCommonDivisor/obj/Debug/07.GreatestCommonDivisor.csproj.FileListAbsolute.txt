@@ -1,0 +1,6 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\07.GreatestCommonDivisor\bin\Debug\07.GreatestCommonDivisor.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\07.GreatestCommonDivisor\bin\Debug\07.GreatestCommonDivisor.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\07.GreatestCommonDivisor\bin\Debug\07.GreatestCommonDivisor.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\07.GreatestCommonDivisor\obj\Debug\07.GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\07.GreatestCommonDivisor\obj\Debug\07.GreatestCommonDivisor.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\07.GreatestCommonDivisor\obj\Debug\07.GreatestCommonDivisor.pdb

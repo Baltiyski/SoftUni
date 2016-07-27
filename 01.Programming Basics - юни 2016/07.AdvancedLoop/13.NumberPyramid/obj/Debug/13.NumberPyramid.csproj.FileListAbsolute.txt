@@ -1,0 +1,5 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\13.NumberPyramid\bin\Debug\13.NumberPyramid.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\13.NumberPyramid\bin\Debug\13.NumberPyramid.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\13.NumberPyramid\bin\Debug\13.NumberPyramid.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\13.NumberPyramid\obj\Debug\13.NumberPyramid.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\13.NumberPyramid\obj\Debug\13.NumberPyramid.pdb

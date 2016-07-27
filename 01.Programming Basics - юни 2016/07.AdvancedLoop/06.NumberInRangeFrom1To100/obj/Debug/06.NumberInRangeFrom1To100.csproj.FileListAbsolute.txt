@@ -1,0 +1,5 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\06.NumberInRangeFrom1To100\bin\Debug\06.NumberInRangeFrom1To100.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\06.NumberInRangeFrom1To100\bin\Debug\06.NumberInRangeFrom1To100.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\06.NumberInRangeFrom1To100\bin\Debug\06.NumberInRangeFrom1To100.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\06.NumberInRangeFrom1To100\obj\Debug\06.NumberInRangeFrom1To100.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\06.NumberInRangeFrom1To100\obj\Debug\06.NumberInRangeFrom1To100.pdb

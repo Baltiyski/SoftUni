@@ -1,0 +1,6 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\01.NumbersFrom1ToNThrought3\bin\Debug\01.NumbersFrom1ToNThrought3.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\01.NumbersFrom1ToNThrought3\bin\Debug\01.NumbersFrom1ToNThrought3.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\01.NumbersFrom1ToNThrought3\bin\Debug\01.NumbersFrom1ToNThrought3.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\01.NumbersFrom1ToNThrought3\obj\Debug\01.NumbersFrom1ToNThrought3.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\01.NumbersFrom1ToNThrought3\obj\Debug\01.NumbersFrom1ToNThrought3.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\01.NumbersFrom1ToNThrought3\obj\Debug\01.NumbersFrom1ToNThrought3.pdb

@@ -1,0 +1,5 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\08.Factorial\bin\Debug\08.Factorial.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\08.Factorial\bin\Debug\08.Factorial.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\08.Factorial\bin\Debug\08.Factorial.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\08.Factorial\obj\Debug\08.Factorial.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\07.AdvancedLoop\08.Factorial\obj\Debug\08.Factorial.pdb
