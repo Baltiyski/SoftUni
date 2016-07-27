@@ -1,1 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\13.NullVariable\bin\Debug\13.NullVariable.exe.config

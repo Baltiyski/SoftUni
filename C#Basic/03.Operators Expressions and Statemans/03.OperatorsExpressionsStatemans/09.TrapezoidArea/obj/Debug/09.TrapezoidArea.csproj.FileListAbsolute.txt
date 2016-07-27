@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\09.TrapezoidArea\obj\Debug\09.TrapezoidArea.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\09.TrapezoidArea\obj\Debug\09.TrapezoidArea.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\09.TrapezoidArea\obj\Debug\09.TrapezoidArea.pdb

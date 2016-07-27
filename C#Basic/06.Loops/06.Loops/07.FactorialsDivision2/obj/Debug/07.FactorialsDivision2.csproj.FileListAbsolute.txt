@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\07.FactorialsDivision2\bin\Debug\07.FactorialsDivision2.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\07.FactorialsDivision2\bin\Debug\07.FactorialsDivision2.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\07.FactorialsDivision2\bin\Debug\07.FactorialsDivision2.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\07.FactorialsDivision2\obj\Debug\07.FactorialsDivision2.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\07.FactorialsDivision2\obj\Debug\07.FactorialsDivision2.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\06.Loops\06.Loops\07.FactorialsDivision2\obj\Debug\07.FactorialsDivision2.pdb

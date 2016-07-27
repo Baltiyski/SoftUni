@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

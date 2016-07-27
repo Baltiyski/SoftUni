@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\11.NumbersInIntervalDivaidableBy5\bin\Debug\11.NumbersInIntervalDivaidableBy5.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\11.NumbersInIntervalDivaidableBy5\bin\Debug\11.NumbersInIntervalDivaidableBy5.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\11.NumbersInIntervalDivaidableBy5\bin\Debug\11.NumbersInIntervalDivaidableBy5.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\11.NumbersInIntervalDivaidableBy5\obj\Debug\11.NumbersInIntervalDivaidableBy5.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\11.NumbersInIntervalDivaidableBy5\obj\Debug\11.NumbersInIntervalDivaidableBy5.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\11.NumbersInIntervalDivaidableBy5\obj\Debug\11.NumbersInIntervalDivaidableBy5.pdb

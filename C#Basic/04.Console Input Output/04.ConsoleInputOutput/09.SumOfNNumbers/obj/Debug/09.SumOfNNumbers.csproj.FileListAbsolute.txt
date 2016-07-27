@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb

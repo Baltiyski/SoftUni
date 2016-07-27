@@ -1,1 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\08.PrimeNimber\bin\Debug\08.PrimeNimber.exe.config

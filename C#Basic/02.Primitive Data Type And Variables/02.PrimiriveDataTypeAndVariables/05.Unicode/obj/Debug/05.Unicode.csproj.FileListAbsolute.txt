@@ -1,8 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\05.Unicode\bin\Debug\05.Unicode.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\05.Unicode\bin\Debug\05.Unicode.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\05.Unicode\bin\Debug\05.Unicode.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\05.Unicode\obj\Debug\05.Unicode.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\05.Unicode\obj\Debug\05.Unicode.pdb
-D:\Work\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\05.Unicode\bin\Debug\05.Unicode.exe.config
-D:\Work\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\05.Unicode\obj\Debug\05.Unicode.exe
-D:\Work\SoftUni\C#Basic\02.Primitive Data Type And Variables\02.PrimiriveDataTypeAndVariables\05.Unicode\obj\Debug\05.Unicode.pdb

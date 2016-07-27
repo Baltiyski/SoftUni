@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

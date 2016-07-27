@@ -1,0 +1,5 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.pdb

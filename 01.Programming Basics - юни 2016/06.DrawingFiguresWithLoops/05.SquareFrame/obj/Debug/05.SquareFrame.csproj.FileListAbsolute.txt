@@ -1,0 +1,5 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb

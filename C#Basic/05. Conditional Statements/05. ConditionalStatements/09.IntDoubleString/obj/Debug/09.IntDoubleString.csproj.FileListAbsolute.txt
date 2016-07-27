@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.pdb

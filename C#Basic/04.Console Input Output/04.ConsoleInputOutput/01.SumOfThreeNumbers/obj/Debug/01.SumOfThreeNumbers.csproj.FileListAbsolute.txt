@@ -1,1 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.exe.config

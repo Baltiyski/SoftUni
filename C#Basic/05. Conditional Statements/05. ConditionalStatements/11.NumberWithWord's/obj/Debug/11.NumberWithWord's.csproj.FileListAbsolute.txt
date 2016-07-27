@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\11.NumberWithWord's\bin\Debug\11.NumberWithWord's.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\11.NumberWithWord's\bin\Debug\11.NumberWithWord's.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\11.NumberWithWord's\bin\Debug\11.NumberWithWord's.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\11.NumberWithWord's\obj\Debug\11.NumberWithWord's.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\11.NumberWithWord's\obj\Debug\11.NumberWithWord's.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\05. Conditional Statements\05. ConditionalStatements\11.NumberWithWord's\obj\Debug\11.NumberWithWord's.pdb

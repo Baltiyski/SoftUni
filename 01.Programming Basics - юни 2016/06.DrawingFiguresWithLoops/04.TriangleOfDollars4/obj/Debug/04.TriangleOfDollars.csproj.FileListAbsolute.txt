@@ -1,0 +1,5 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\04.TriangleOfDollars4\bin\Debug\04.TriangleOfDollars4.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\04.TriangleOfDollars4\bin\Debug\04.TriangleOfDollars4.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\04.TriangleOfDollars4\bin\Debug\04.TriangleOfDollars4.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\04.TriangleOfDollars4\obj\Debug\04.TriangleOfDollars4.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\04.TriangleOfDollars4\obj\Debug\04.TriangleOfDollars4.pdb

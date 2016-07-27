@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\10.PascalCase\bin\Debug\10.PascalCase.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\10.PascalCase\bin\Debug\10.PascalCase.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\10.PascalCase\bin\Debug\10.PascalCase.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\10.PascalCase\obj\Debug\10.PascalCase.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\10.PascalCase\obj\Debug\10.PascalCase.pdb

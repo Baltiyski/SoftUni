@@ -1,0 +1,6 @@
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+E:\Work\SoftUni\01.Programming Basics - юни 2016\06.DrawingFiguresWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb

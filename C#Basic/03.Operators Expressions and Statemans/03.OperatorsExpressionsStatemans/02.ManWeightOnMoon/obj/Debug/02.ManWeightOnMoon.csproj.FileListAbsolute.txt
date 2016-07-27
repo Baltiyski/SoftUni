@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\02.ManWeightOnMoon\bin\Debug\02.ManWeightOnMoon.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\02.ManWeightOnMoon\bin\Debug\02.ManWeightOnMoon.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\02.ManWeightOnMoon\bin\Debug\02.ManWeightOnMoon.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\02.ManWeightOnMoon\obj\Debug\02.ManWeightOnMoon.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\03.Operators Expressions and Statemans\03.OperatorsExpressionsStatemans\02.ManWeightOnMoon\obj\Debug\02.ManWeightOnMoon.pdb

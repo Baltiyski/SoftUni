@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\09.First10Members\bin\Debug\09.First10Members.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\09.First10Members\bin\Debug\09.First10Members.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\09.First10Members\bin\Debug\09.First10Members.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\09.First10Members\obj\Debug\09.First10Members.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\09.First10Members\obj\Debug\09.First10Members.pdb

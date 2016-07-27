@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\06.ThreeNumber's\bin\Debug\06.ThreeNumber's.exe.config
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\06.ThreeNumber's\bin\Debug\06.ThreeNumber's.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\06.ThreeNumber's\bin\Debug\06.ThreeNumber's.pdb
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\06.ThreeNumber's\obj\Debug\06.ThreeNumber's.exe
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\01.Introduction to Programming\01.Intro-Programming-Homework\06.ThreeNumber's\obj\Debug\06.ThreeNumber's.pdb

@@ -1,1 +1,0 @@
-C:\Users\Stefan\Desktop\SoftUni\C#Basic\04.Console Input Output\04.ConsoleInputOutput\04.WithoutIfStatement\bin\Debug\04.WithoutIfStatement.exe.config
