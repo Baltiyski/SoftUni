@@ -1,0 +1,6 @@
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\04.BackToThePast\bin\Debug\04.BackToThePast.exe.config
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\04.BackToThePast\bin\Debug\04.BackToThePast.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\04.BackToThePast\bin\Debug\04.BackToThePast.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\04.BackToThePast\obj\Debug\04.BackToThePast.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\04.BackToThePast\obj\Debug\04.BackToThePast.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\04.BackToThePast\obj\Debug\04.BackToThePast.pdb

@@ -1,0 +1,6 @@
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\06.StopNumber\bin\Debug\06.StopNumber.exe.config
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\06.StopNumber\bin\Debug\06.StopNumber.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\06.StopNumber\bin\Debug\06.StopNumber.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\06.StopNumber\obj\Debug\06.StopNumber.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\06.StopNumber\obj\Debug\06.StopNumber.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\17 July 2016\06.StopNumber\obj\Debug\06.StopNumber.pdb
