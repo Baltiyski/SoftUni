@@ -1,0 +1,6 @@
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.Hospital\bin\Debug\03.Hospital.exe.config
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.Hospital\bin\Debug\03.Hospital.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.Hospital\bin\Debug\03.Hospital.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.Hospital\obj\Debug\04.Hospital.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.Hospital\obj\Debug\03.Hospital.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.Hospital\obj\Debug\03.Hospital.pdb

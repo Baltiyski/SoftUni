@@ -1,0 +1,6 @@
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\06.TriplesOfLatinLatters\bin\Debug\06.TriplesOfLatinLatters.exe.config
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\06.TriplesOfLatinLatters\bin\Debug\06.TriplesOfLatinLatters.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\06.TriplesOfLatinLatters\bin\Debug\06.TriplesOfLatinLatters.pdb
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\06.TriplesOfLatinLatters\obj\Debug\06.TriplesOfLatinLatters.csprojResolveAssemblyReference.cache
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\06.TriplesOfLatinLatters\obj\Debug\06.TriplesOfLatinLatters.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\06.TriplesOfLatinLatters\obj\Debug\06.TriplesOfLatinLatters.pdb

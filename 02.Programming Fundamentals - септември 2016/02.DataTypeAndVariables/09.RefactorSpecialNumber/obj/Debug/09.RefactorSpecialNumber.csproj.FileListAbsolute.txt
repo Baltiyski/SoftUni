@@ -1,0 +1,5 @@
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\09.RefactorSpecialNumber\bin\Debug\09.RefactorSpecialNumber.exe.config
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\09.RefactorSpecialNumber\bin\Debug\09.RefactorSpecialNumber.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\09.RefactorSpecialNumber\bin\Debug\09.RefactorSpecialNumber.pdb
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\09.RefactorSpecialNumber\obj\Debug\09.RefactorSpecialNumber.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\09.RefactorSpecialNumber\obj\Debug\09.RefactorSpecialNumber.pdb

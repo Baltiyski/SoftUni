@@ -1,0 +1,5 @@
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.exe.config
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.pdb
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.pdb

@@ -1,0 +1,6 @@
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\01.DaySalary\bin\Debug\01.DaySalary.exe.config
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\01.DaySalary\bin\Debug\01.DaySalary.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\01.DaySalary\bin\Debug\01.DaySalary.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\01.DaySalary\obj\Debug\01.DaySalary.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\01.DaySalary\obj\Debug\01.DaySalary.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\01.DaySalary\obj\Debug\01.DaySalary.pdb

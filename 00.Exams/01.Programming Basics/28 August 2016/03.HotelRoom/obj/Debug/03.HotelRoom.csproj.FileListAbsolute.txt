@@ -1,0 +1,5 @@
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.HotelRoom\bin\Debug\03.HotelRoom.exe.config
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.HotelRoom\bin\Debug\03.HotelRoom.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.HotelRoom\bin\Debug\03.HotelRoom.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.HotelRoom\obj\Debug\03.HotelRoom.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\03.HotelRoom\obj\Debug\03.HotelRoom.pdb

@@ -1,0 +1,6 @@
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.csprojResolveAssemblyReference.cache
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb

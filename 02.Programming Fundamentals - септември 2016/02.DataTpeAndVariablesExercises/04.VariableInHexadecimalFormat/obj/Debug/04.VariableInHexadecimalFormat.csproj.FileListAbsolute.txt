@@ -1,0 +1,6 @@
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe.config
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.pdb
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.pdb

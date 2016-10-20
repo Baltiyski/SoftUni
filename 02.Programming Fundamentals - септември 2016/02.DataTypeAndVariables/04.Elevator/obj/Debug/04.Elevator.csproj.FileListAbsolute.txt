@@ -1,0 +1,6 @@
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\04.Elevator\bin\Debug\04.Elevator.exe.config
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\04.Elevator\bin\Debug\04.Elevator.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\04.Elevator\bin\Debug\04.Elevator.pdb
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\04.Elevator\obj\Debug\04.Elevator.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\04.Elevator\obj\Debug\04.Elevator.pdb
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\04.Elevator\obj\Debug\04.Elevator.csprojResolveAssemblyReference.cache

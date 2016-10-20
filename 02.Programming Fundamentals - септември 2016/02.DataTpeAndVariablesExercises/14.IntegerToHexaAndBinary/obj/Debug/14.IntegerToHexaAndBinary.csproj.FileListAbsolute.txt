@@ -1,0 +1,5 @@
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\14.IntegerToHexaAndBinary\bin\Debug\14.IntegerToHexaAndBinary.exe.config
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\14.IntegerToHexaAndBinary\bin\Debug\14.IntegerToHexaAndBinary.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\14.IntegerToHexaAndBinary\bin\Debug\14.IntegerToHexaAndBinary.pdb
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\14.IntegerToHexaAndBinary\obj\Debug\14.IntegerToHexaAndBinary.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\14.IntegerToHexaAndBinary\obj\Debug\14.IntegerToHexaAndBinary.pdb

@@ -1,0 +1,6 @@
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Axe\bin\Debug\05.Axe.exe.config
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Axe\bin\Debug\05.Axe.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Axe\bin\Debug\05.Axe.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Axe\obj\Debug\05.Axe.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Axe\obj\Debug\05.Axe.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Axe\obj\Debug\05.Axe.csprojResolveAssemblyReference.cache

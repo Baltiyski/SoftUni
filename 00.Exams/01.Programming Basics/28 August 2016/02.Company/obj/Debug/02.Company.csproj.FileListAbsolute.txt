@@ -1,0 +1,5 @@
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\02.Company\bin\Debug\02.Company.exe.config
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\02.Company\bin\Debug\02.Company.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\02.Company\bin\Debug\02.Company.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\02.Company\obj\Debug\02.Company.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\02.Company\obj\Debug\02.Company.pdb

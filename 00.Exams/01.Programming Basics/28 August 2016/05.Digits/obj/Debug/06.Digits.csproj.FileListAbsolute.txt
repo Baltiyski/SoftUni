@@ -1,0 +1,5 @@
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Digits\bin\Debug\05.Digits.exe.config
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Digits\bin\Debug\05.Digits.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Digits\bin\Debug\05.Digits.pdb
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Digits\obj\Debug\05.Digits.exe
+E:\Work\SoftUni\00.Exams\01.Programming Basics\28 August 2016\05.Digits\obj\Debug\05.Digits.pdb

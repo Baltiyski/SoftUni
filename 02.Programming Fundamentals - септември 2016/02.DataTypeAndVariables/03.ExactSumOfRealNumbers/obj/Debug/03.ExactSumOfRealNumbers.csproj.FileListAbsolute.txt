@@ -1,0 +1,6 @@
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe.config
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.pdb
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.pdb

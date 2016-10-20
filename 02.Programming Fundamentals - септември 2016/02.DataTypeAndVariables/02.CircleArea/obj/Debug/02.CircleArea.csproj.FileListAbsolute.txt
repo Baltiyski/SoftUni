@@ -1,0 +1,5 @@
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\02.CircleArea\bin\Debug\02.CircleArea.exe.config
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\02.CircleArea\bin\Debug\02.CircleArea.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\02.CircleArea\bin\Debug\02.CircleArea.pdb
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\02.CircleArea\obj\Debug\02.CircleArea.exe
+D:\_01.Stefan\SoftUni\02.DataTypeAndVariables\02.CircleArea\obj\Debug\02.CircleArea.pdb

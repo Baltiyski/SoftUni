@@ -1,0 +1,5 @@
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\06.StringAndObject\bin\Debug\06.StringAndObject.exe.config
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\06.StringAndObject\bin\Debug\06.StringAndObject.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\06.StringAndObject\bin\Debug\06.StringAndObject.pdb
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\06.StringAndObject\obj\Debug\06.StringAndObject.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\06.StringAndObject\obj\Debug\06.StringAndObject.pdb

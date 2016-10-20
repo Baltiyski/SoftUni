@@ -1,0 +1,5 @@
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.exe.config
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.pdb
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\07.ExchangeVariableValues\obj\Debug\07.ExchangeVariableValues.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\07.ExchangeVariableValues\obj\Debug\07.ExchangeVariableValues.pdb

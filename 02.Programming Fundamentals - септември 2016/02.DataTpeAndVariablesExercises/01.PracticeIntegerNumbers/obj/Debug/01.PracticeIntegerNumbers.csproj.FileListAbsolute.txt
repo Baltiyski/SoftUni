@@ -1,0 +1,6 @@
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe.config
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.pdb
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.pdb

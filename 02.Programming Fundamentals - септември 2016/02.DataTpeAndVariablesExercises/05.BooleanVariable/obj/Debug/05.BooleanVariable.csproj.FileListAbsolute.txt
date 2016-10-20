@@ -1,0 +1,6 @@
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.csprojResolveAssemblyReference.cache
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb
