@@ -1,1 +1,2 @@
 D:\_01.Stefan\SoftUni\02.DataTpeAndVariablesExercises\16.ComparingFloats\bin\Debug\16.ComparingFloats.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\02.DataTpeAndVariablesExercises\16.ComparingFloats\bin\Debug\16.ComparingFloats.exe.config

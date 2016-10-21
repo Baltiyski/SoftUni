@@ -1,0 +1,5 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\06.MathPower\bin\Debug\06.MathPower.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\06.MathPower\bin\Debug\06.MathPower.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\06.MathPower\bin\Debug\06.MathPower.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\06.MathPower\obj\Debug\06.MathPower.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\06.MathPower\obj\Debug\06.MathPower.pdb

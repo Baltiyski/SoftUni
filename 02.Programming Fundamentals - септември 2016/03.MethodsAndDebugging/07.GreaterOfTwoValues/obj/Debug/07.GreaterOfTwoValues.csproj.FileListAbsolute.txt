@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.pdb

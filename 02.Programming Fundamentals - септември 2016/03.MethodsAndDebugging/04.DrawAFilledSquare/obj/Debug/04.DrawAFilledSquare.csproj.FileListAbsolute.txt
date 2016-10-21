@@ -1,0 +1,5 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.pdb

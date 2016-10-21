@@ -1,0 +1,5 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\02.SignOfIntegerNumber\obj\Debug\02.SignOfIntegerNumber.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\02.SignOfIntegerNumber\obj\Debug\02.SignOfIntegerNumber.pdb

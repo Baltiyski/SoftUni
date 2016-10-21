@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebugging\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.pdb
