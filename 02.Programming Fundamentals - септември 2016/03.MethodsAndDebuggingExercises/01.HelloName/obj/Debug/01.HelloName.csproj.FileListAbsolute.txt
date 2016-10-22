@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebuggingExercises\01.HelloName\bin\Debug\01.HelloName.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebuggingExercises\01.HelloName\bin\Debug\01.HelloName.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebuggingExercises\01.HelloName\bin\Debug\01.HelloName.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebuggingExercises\01.HelloName\obj\Debug\01.HelloName.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebuggingExercises\01.HelloName\obj\Debug\01.HelloName.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\03.MethodsAndDebuggingExercises\01.HelloName\obj\Debug\01.HelloName.pdb

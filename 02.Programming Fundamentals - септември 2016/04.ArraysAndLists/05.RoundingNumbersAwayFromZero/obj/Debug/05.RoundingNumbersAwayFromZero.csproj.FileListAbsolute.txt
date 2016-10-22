@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\05.RoundingNumbersAwayFromZero\bin\Debug\05.RoundingNumbersAwayFromZero.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\05.RoundingNumbersAwayFromZero\bin\Debug\05.RoundingNumbersAwayFromZero.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\05.RoundingNumbersAwayFromZero\bin\Debug\05.RoundingNumbersAwayFromZero.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\05.RoundingNumbersAwayFromZero\obj\Debug\05.RoundingNumbersAwayFromZero.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\05.RoundingNumbersAwayFromZero\obj\Debug\05.RoundingNumbersAwayFromZero.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\05.RoundingNumbersAwayFromZero\obj\Debug\05.RoundingNumbersAwayFromZero.pdb

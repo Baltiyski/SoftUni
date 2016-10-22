@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.pdb

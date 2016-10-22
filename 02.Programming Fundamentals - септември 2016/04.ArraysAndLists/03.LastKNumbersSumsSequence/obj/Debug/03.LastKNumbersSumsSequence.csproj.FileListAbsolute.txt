@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\03.LastKNumbersSumsSequence\bin\Debug\03.LastKNumbersSumsSequence.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\03.LastKNumbersSumsSequence\bin\Debug\03.LastKNumbersSumsSequence.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\03.LastKNumbersSumsSequence\bin\Debug\03.LastKNumbersSumsSequence.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\03.LastKNumbersSumsSequence\obj\Debug\03.LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\03.LastKNumbersSumsSequence\obj\Debug\03.LastKNumbersSumsSequence.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\03.LastKNumbersSumsSequence\obj\Debug\03.LastKNumbersSumsSequence.pdb

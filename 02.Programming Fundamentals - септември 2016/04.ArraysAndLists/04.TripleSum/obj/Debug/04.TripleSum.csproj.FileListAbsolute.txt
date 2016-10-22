@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\04.TripleSum\bin\Debug\04.TripleSum.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\04.TripleSum\bin\Debug\04.TripleSum.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\04.TripleSum\bin\Debug\04.TripleSum.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\04.TripleSum\obj\Debug\04.TripleSum.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\04.TripleSum\obj\Debug\04.TripleSum.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\04.TripleSum\obj\Debug\04.TripleSum.pdb

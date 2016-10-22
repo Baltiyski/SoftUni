@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\10.RemoveNegAndReverse\bin\Debug\10.RemoveNegAndReverse.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\10.RemoveNegAndReverse\bin\Debug\10.RemoveNegAndReverse.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\10.RemoveNegAndReverse\bin\Debug\10.RemoveNegAndReverse.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\10.RemoveNegAndReverse\obj\Debug\10.RemoveNegAndReverse.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\10.RemoveNegAndReverse\obj\Debug\10.RemoveNegAndReverse.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\10.RemoveNegAndReverse\obj\Debug\10.RemoveNegAndReverse.pdb

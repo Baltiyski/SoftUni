@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\06.ReverseAnArrayString\bin\Debug\06.ReverseAnArrayString.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\06.ReverseAnArrayString\bin\Debug\06.ReverseAnArrayString.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\06.ReverseAnArrayString\bin\Debug\06.ReverseAnArrayString.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\06.ReverseAnArrayString\obj\Debug\06.ReverseAnArrayString.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\06.ReverseAnArrayString\obj\Debug\06.ReverseAnArrayString.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\06.ReverseAnArrayString\obj\Debug\06.ReverseAnArrayString.pdb

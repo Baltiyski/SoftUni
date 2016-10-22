@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\01.DayOfWeek\bin\Debug\01.DayOfWeek.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\01.DayOfWeek\obj\Debug\01.DayOfWeek.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\01.DayOfWeek\obj\Debug\01.DayOfWeek.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\01.DayOfWeek\obj\Debug\01.DayOfWeek.pdb

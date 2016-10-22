@@ -1,0 +1,6 @@
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\07.SumArrat\bin\Debug\07.SumArrat.exe.config
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\07.SumArrat\bin\Debug\07.SumArrat.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\07.SumArrat\bin\Debug\07.SumArrat.pdb
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\07.SumArrat\obj\Debug\07.SumArrat.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\07.SumArrat\obj\Debug\07.SumArrat.exe
+E:\Work\SoftUni\02.Programming Fundamentals - септември 2016\04.ArraysAndLists\07.SumArrat\obj\Debug\07.SumArrat.pdb
