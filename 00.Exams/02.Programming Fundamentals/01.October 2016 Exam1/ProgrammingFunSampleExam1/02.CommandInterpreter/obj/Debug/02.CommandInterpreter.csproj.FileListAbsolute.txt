@@ -1,0 +1,6 @@
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.exe.config
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.exe
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.pdb
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.exe
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.pdb
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.csprojResolveAssemblyReference.cache
