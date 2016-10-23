@@ -1,0 +1,6 @@
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\02.October 2016 Exam2\SweetDessert\bin\Debug\SweetDessert.exe.config
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\02.October 2016 Exam2\SweetDessert\bin\Debug\SweetDessert.exe
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\02.October 2016 Exam2\SweetDessert\bin\Debug\SweetDessert.pdb
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\02.October 2016 Exam2\SweetDessert\obj\Debug\SweetDessert.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\02.October 2016 Exam2\SweetDessert\obj\Debug\SweetDessert.exe
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\02.October 2016 Exam2\SweetDessert\obj\Debug\SweetDessert.pdb
