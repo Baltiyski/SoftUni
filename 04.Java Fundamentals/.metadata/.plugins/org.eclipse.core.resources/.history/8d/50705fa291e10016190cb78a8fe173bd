@@ -1,0 +1,16 @@
+package javaSyntax.lab;
+
+import java.util.Scanner;
+
+public class TransportPrice {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		double distance = scanner.nextDouble();
+		String dayOrNight = scanner.nextLine();
+		
+		if (distance >= 20) {
+			distance *= 0.09;
+		}
+	}
+}

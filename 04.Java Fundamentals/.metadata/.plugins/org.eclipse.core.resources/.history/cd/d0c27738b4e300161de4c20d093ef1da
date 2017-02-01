@@ -1,0 +1,7 @@
+package javaSyntax.exercises;
+
+public class FirstOddOrEvenElement {
+	public static void main(String[] args) {
+		
+	}
+}

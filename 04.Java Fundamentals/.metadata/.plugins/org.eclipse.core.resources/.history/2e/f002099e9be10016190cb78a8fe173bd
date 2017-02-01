@@ -1,0 +1,13 @@
+package javaSyntax.lab;
+
+public class CalculateTriangleAreaMethod {
+	public static void main(String[] args) {
+		
+	}
+	
+	public static double calcArea(double base, double hight){
+		double area = (base * hight) / 2;
+		return area;
+	}
+
+}

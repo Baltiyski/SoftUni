@@ -1,0 +1,17 @@
+package ìatrices;
+
+import java.util.Scanner;
+
+public class ReadSortPrint {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		int howManynames = Integer.parseInt(scanner.nextLine());
+		
+		for (int i = 0; i < howManynames; i++) {
+			
+		}
+
+	}
+}

@@ -1,0 +1,53 @@
+package ìatrices;
+
+import java.util.Scanner;
+
+public class MaximalSum {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		String[] rectRowCol = scanner.nextLine().split(" ");
+		
+		int rows = Integer.parseInt(rectRowCol[0]);
+		int cols = Integer.parseInt(rectRowCol[1]);
+		int[][] array = new int[rows][cols];
+		
+		fillArray(array, scanner);
+		
+		int maxSum = Integer.MIN_VALUE;
+        int biggestMatrixRow = 0;
+        int biggestMatrixCol = 0;
+
+        for (int row = 0; row < array.length - 2; row++) {
+            for (int col = 0; col < array[row].length - 2; col++) {
+                int currentSum = getCurrentMaxSum(array, row, col);
+
+                if (currentSum > maxSum){
+                    maxSum = currentSum;
+                    biggestMatrixRow = row;
+                    biggestMatrixCol = col;
+                }
+            }
+        }
+		
+		
+	}
+	
+	public static int getCurrentMaxSum(int[][] matrix, int row, int col) {
+		int currSum = 0;
+		
+		for (int i = 0; i < matrix.length; i++) {
+			
+		}
+		
+		return currSum;
+	}
+	
+	public static void fillArray(int[][] matrix, Scanner scanner) {
+		for (int row = 0; row < matrix.length; row++) {
+			String[] input = scanner.nextLine().split(" ");
+			for (int col = 0; col < input[row].length(); col++) {
+				matrix[row][col] = Integer.getInteger(input[col]);
+			}
+		}
+	}
+}

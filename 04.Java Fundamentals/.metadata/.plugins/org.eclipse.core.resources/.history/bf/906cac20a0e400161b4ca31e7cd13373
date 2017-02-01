@@ -1,0 +1,10 @@
+package ìatrices;
+
+import java.util.Scanner;
+
+public class SqueresInMatrix {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		String[] arrRowCol = scanner.nextLine().split(" ");
+	}
+}

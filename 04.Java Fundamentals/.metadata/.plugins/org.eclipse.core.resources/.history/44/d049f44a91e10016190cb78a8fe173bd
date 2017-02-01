@@ -1,0 +1,12 @@
+package javaSyntax.lab;
+
+import java.util.Scanner;
+
+public class TransportPrice {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		int distance = scanner.nextInt();
+		String dayOrNight = scanner.nextLine();
+	}
+}

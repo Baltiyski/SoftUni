@@ -1,0 +1,16 @@
+package _StacksAndQueues.LabProblems;
+
+import java.util.ArrayDeque;
+import java.util.Scanner;
+
+public class _01ReverseString {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		String input = scanner.nextLine();
+		
+		ArrayDeque<String> reversString = new ArrayDeque<>();
+		
+		reversString.push(input);
+		
+	}
+}

@@ -1,0 +1,15 @@
+package ìatrices;
+
+import java.util.Scanner;
+
+public class SumMatrixElements {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		String[] rowCol = scanner.nextLine().split(", ");
+		for (int row = 0; row < rowCol[0]; row++) {
+			
+		}
+		
+	}
+}

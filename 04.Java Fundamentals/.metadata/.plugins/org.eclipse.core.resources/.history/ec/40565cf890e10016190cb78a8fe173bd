@@ -1,0 +1,7 @@
+package javaSyntax.lab;
+
+public class TransportPrice {
+	public static void main(String[] args) {
+		
+	}
+}

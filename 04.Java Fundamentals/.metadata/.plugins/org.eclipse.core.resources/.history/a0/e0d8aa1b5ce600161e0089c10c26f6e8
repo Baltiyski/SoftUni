@@ -1,0 +1,21 @@
+package matrixExercise;
+
+import java.util.Scanner;
+
+public class _07CollectTheCoins {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		char[][] matrix = new char[4][];
+		
+		
+	}
+	
+	public static void cointsWallsCount(char[][] matrix, Scanner scanner) {
+		
+		for (int row = 0; row < matrix.length; row++) {
+			char[] remainders = scanner.nextLine().toCharArray();
+			matrix[row] = new char[remainders.length];
+		}
+	}
+}

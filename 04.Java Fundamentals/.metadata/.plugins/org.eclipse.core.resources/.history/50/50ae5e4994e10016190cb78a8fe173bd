@@ -1,0 +1,10 @@
+package javaSyntax.lab;
+
+public class NumbersFrom0To9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

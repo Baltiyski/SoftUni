@@ -1,0 +1,20 @@
+package javaSyntax.lab;
+
+import java.util.Scanner;
+
+public class CalculateTriangleAreaMethod {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		double base = scanner.nextDouble();
+		double hight = scanner.nextDouble();
+		
+		calcArea(base, hight);
+	}
+	
+	public static double calcArea(double base, double hight){
+		double area = (base * hight) / 2;
+		return area;
+	}
+
+}

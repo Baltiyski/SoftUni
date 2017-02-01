@@ -1,0 +1,17 @@
+package javaSyntax.exercises;
+
+import java.util.Scanner;
+
+public class CalculateExpression {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		double a = scanner.nextDouble();
+		double b = scanner.nextDouble();
+		double c = scanner.nextDouble();
+		
+		double power = (a + b + c) / Math.abs(c);
+		double f1 = Math.pow(((Math.pow(a, 2)+Math.pow(b, 2))/ (Math.pow(a, 2) - Math.pow(b, 2))), power);
+
+	}
+}

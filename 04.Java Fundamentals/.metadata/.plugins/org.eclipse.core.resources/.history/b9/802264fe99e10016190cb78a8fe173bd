@@ -1,0 +1,20 @@
+package javaSyntax.lab;
+
+public class Lottery {
+	public static void main(String[] args) {
+		
+		for (int i = 1; i <= 49; i++) {
+			for (int j = i + 1; j <= 49; j++) {
+				for (int j2 = 0; j2 <= 49; j2++) {
+					for (int k = 0; k <= 49; k++) {
+						for (int k2 = 0; k2 <= 49; k2++) {
+							for (int l = 0; l <= 49; l++) {
+								
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

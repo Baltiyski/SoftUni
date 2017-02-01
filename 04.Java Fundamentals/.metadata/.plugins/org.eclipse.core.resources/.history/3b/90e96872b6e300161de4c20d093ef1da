@@ -1,0 +1,7 @@
+package javaSyntax.exercises;
+
+public class GameOfNames {
+	public static void main(String[] args) {
+		
+	}
+}

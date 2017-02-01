@@ -1,0 +1,7 @@
+package ìatrices;
+
+public class SqueresInMatrix {
+	public static void main(String[] args) {
+		
+	}
+}

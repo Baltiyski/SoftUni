@@ -1,0 +1,15 @@
+package javaSyntax.exercises;
+
+import java.util.Scanner;
+
+public class FirstOddOrEvenElement {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		String[] numbers = scanner.nextLine().split(" ");
+		String[] rule = scanner.nextLine().split(" ");
+		
+		System.out.println(rule[1]);
+		System.out.println(rule[2]);
+	}
+}

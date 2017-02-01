@@ -1,0 +1,12 @@
+package matrixExercise;
+
+import java.util.Scanner;
+
+public class DiagonalDifference {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int lenghtArr = Integer.parseInt(scanner.nextLine());
+		int[][] array = new int[lenghtArr][lenghtArr];
+		
+	}
+}

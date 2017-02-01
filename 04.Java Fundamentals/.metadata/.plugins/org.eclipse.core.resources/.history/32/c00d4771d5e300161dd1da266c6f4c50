@@ -1,0 +1,27 @@
+package matrixExercise;
+
+import java.util.Scanner;
+
+public class FillTheMatrix {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		String[] input = scanner.nextLine().split(", ");
+		int sizeA = Integer.parseInt(input[0]);
+		int sizeB = Integer.parseInt(input[1]);
+		int[][] array = new int [sizeA][sizeA];
+		matrixA(array);
+		
+	}
+	
+	public static void matrixA(int[][] array) {
+		
+		for (int i = 0; i < array.length; i++) {
+			
+		}
+	}
+	
+	public static void matrixB(int[][] array) {
+			
+	}
+}

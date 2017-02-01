@@ -1,0 +1,13 @@
+package javaSyntax.exercises;
+
+import java.util.Scanner;
+
+public class FormattingNumbers {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		int a = scanner.nextInt();
+		double b = scanner.nextDouble();
+		double c = scanner.nextDouble();
+	}
+}

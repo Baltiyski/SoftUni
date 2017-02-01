@@ -1,0 +1,8 @@
+package matrixExercise;
+
+public class MatrixOfPalindromes {
+	public static void main(String[] args) {
+		
+		
+	}
+}

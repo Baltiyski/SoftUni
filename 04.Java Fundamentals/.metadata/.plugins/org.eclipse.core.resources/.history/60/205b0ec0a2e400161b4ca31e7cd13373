@@ -1,0 +1,24 @@
+package ìatrices;
+
+import java.util.Scanner;
+
+public class SqueresInMatrix {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		String[] arrRowCol = scanner.nextLine().split(" ");
+		int arrRow = Integer.parseInt(arrRowCol[0]);
+		int arrCol = Integer.parseInt(arrRowCol[1]);
+		
+		int[][] array = new int[arrRow][arrCol];
+	}
+	
+	
+	public static void fillMatrix(int[][] array, Scanner scanner) {
+		for (int i = 0; i < array.length; i++) {
+			for (int j = 0; j < array[row].length; j++) {
+				
+			}
+		}
+		
+	}
+}
