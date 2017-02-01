@@ -1,0 +1,17 @@
+#div1{
+    border: 2px dotted blue;
+    border-radius: 8px;
+    padding: 20px;
+}
+#div2{
+    border: 2px dashed red;
+    border-radius: 8px;
+    padding: 20px;
+}
+#div3{
+    border: 2px solid green;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 2em;
+    padding: 20px;
+}

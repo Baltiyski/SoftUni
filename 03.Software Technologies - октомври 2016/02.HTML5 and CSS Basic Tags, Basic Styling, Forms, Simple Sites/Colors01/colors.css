@@ -1,0 +1,27 @@
+#red{
+    border: 5px solid red;
+    border-radius: 10px;
+}
+
+#redSpamp {
+    color: red;
+}
+#green{
+    border: 5px solid green;
+    border-radius: 10px;
+}
+
+#greenSpamp {
+    color: green;
+}
+#blue{
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+
+#blueSpamp {
+    color: blue;
+}
+p{
+    background-color: #E8E8E8;
+}
