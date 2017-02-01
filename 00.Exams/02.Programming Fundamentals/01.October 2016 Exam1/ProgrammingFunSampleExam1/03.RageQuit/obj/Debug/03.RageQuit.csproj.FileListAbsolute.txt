@@ -1,6 +1,0 @@
-E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\03.RageQuit\bin\Debug\03.RageQuit.exe.config
-E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\03.RageQuit\bin\Debug\03.RageQuit.exe
-E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\03.RageQuit\bin\Debug\03.RageQuit.pdb
-E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\03.RageQuit\obj\Debug\03.RageQuit.csprojResolveAssemblyReference.cache
-E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\03.RageQuit\obj\Debug\03.RageQuit.exe
-E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\01.October 2016 Exam1\ProgrammingFunSampleExam1\03.RageQuit\obj\Debug\03.RageQuit.pdb
