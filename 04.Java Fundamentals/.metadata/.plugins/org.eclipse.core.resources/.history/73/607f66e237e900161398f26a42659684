@@ -1,0 +1,14 @@
+package _StacksAndQueues.LabProblems;
+
+import java.util.ArrayDeque;
+import java.util.Scanner;
+
+public class _03DecimalToBinary {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int token = Integer.valueOf(scanner.nextLine());
+		
+		ArrayDeque<Integer> = new ArrayDeque<>();
+		
+	}
+}
