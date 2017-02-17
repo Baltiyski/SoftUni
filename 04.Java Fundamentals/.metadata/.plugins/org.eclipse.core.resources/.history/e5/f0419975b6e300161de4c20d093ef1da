@@ -1,9 +1,0 @@
-package javaSyntax.exercises;
-
-import java.util.Scanner;
-
-public class GameOfNames {
-	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-	}
-}

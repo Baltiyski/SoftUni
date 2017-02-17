@@ -1,7 +1,0 @@
-package javaSyntax.lab;
-
-public class ProductOfNtoM {
-	public static void main(String[] args) {
-		
-	}
-}

@@ -1,7 +1,0 @@
-package javaSyntax.exercises;
-
-public class FormattingNumbers {
-	public static void main(String[] args) {
-		
-	}
-}

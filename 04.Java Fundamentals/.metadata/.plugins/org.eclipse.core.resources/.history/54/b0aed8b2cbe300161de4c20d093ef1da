@@ -1,9 +1,0 @@
-package ìatrices;
-
-import java.util.Scanner;
-
-public class GroupNumbers {
-	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-	}
-}

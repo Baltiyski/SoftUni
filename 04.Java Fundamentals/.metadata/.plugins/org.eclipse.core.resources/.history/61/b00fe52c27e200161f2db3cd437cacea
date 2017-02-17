@@ -1,9 +1,0 @@
-package javaSyntax.exercises;
-
-public class CalculateExpression {
-
-	public static void main(String[] args) {
-		
-
-	}
-}
