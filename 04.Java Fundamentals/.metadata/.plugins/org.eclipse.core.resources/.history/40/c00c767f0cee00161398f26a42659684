@@ -1,0 +1,45 @@
+package _StacksAndQueues.HomeProblems;
+
+import java.util.ArrayDeque;
+import java.util.Deque;
+
+/*
+ * Somewhere in the future, there is a robotics factory. The current project is assembly line robots. 
+ * Each robot has a processing time, the time it needs to process a product. 
+ * When a robot is free it should take a product for processing and log his name, product and processing start time. 
+ * Each robot processes a product coming from the assembly line. 
+ * A product is coming from the line each second (so the first product should appear at [start time + 1 second]). 
+ * If a product passes the line and there is not a free robot to take it, 
+ * it should be queued at the end of the line again.The robots are standing on the line in the order of their appearance.
+ */
+
+import java.util.Scanner;
+
+public class _06Robotics {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		String[] robotsTokens = scanner.nextLine().split(";");
+		String[] robots = new String[robotsTokens.length];
+		int[] processTime = new int[robotsTokens.length];
+		int[] robotsWorking = new int[robotsTokens.length];
+		
+		for (int i = 0; i < robotsTokens.length; i++) {
+			String[] tokens = robotsTokens[i].split("-");
+			robots[i] = tokens[0];
+			processTime[i] = Integer.parseInt(tokens[1]);
+		}
+		
+		String[] time = scanner.nextLine().split(":");
+		long h = Integer.parseInt(time[0]) * 60 * 60;
+		long mm = Integer.parseInt(time[0]) * 60;
+		long ss = Integer.parseInt(time[0]);
+		
+		Deque<String> products = new ArrayDeque<>();
+		String product = "";
+		while (!"End".equals(product = scanner.nextLine())) {
+			products.offer(product);
+		}
+		
+	}
+}

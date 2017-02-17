@@ -1,0 +1,26 @@
+package _StacksAndQueues.HomeProblems;
+
+import java.util.ArrayDeque;
+import java.util.Scanner;
+
+public class _08BalancedParantheses {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		char[] parenthesesArray = scanner.nextLine().toCharArray();
+		
+		ArrayDeque<Character> parenthese = new ArrayDeque<>();
+		
+		for (int i = 0; i < parenthesesArray.length; i++) {
+			parenthese.add(parenthesesArray[i]);
+		}
+		
+		boolean isParentheses = true;
+		char firstElement = '';
+		char lasElement = 'b';
+		
+		for (int i = 0; i < parenthesesArray.length; i++) {
+			
+		}
+		
+	}
+}

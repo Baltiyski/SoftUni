@@ -1,0 +1,16 @@
+package _StacksAndQueues.HomeProblems;
+
+import java.util.ArrayDeque;
+import java.util.Collections;
+import java.util.Scanner;
+
+public class _01ReverseNumbersWithAStack {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		String[] token = scanner.nextLine().split("\\s+");
+		
+		ArrayDeque<Integer> revNumbers = new ArrayDeque<>();
+		Collections.addAll(revNumbers, token);
+		
+	}
+}

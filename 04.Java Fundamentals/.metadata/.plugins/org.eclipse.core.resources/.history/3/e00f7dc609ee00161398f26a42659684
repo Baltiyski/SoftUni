@@ -1,0 +1,26 @@
+package _StacksAndQueues.HomeProblems;
+
+import java.util.Scanner;
+
+public class _06Robotics {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		String[] robotsTokens = scanner.nextLine().split(";");
+		String[] robots = new String[robotsTokens.length];
+		int[] processTime = new int[robotsTokens.length];
+		int[] robotsWorking = new int[robotsTokens.length];
+		
+		for (int i = 0; i < robotsTokens.length; i++) {
+			String[] tokens = robotsTokens[i].split("-");
+			robots[i] = tokens[0];
+			processTime[i] = Integer.parseInt(tokens[1]);
+		}
+		
+		String[] time = scanner.nextLine().split(":");
+		long h = Integer.parseInt(time[0]) * 60 * 60;
+		long mm = Integer.parseInt(time[0]) * 60;
+		long ss = Integer.parseInt(time[0]);
+		
+	}
+}
