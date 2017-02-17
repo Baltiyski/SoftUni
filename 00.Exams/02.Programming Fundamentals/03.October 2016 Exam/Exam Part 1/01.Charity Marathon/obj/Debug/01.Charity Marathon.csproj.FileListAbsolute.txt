@@ -1,0 +1,6 @@
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\03.October 2016 Exam\Exam Part 1\01.Charity Marathon\bin\Debug\01.Charity Marathon.exe.config
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\03.October 2016 Exam\Exam Part 1\01.Charity Marathon\bin\Debug\01.Charity Marathon.exe
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\03.October 2016 Exam\Exam Part 1\01.Charity Marathon\bin\Debug\01.Charity Marathon.pdb
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\03.October 2016 Exam\Exam Part 1\01.Charity Marathon\obj\Debug\01.Charity Marathon.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\03.October 2016 Exam\Exam Part 1\01.Charity Marathon\obj\Debug\01.Charity Marathon.exe
+E:\Work\SoftUni\00.Exams\02.Programming Fundamentals\03.October 2016 Exam\Exam Part 1\01.Charity Marathon\obj\Debug\01.Charity Marathon.pdb
