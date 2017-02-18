@@ -1,0 +1,19 @@
+package _SetsAndMaps.LabProblems;
+
+import java.util.HashSet;
+import java.util.Scanner;
+
+public class _01Parkinglot {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		HashSet<String> parking = new HashSet<>();
+		
+		while (true) {
+			String input = scanner.nextLine();
+			if ("END".equals(input)) {
+				break;
+			}
+		}
+	}
+}

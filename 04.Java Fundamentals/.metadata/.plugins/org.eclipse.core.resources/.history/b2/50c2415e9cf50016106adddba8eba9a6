@@ -1,0 +1,9 @@
+package _SetsAndMaps.LabProblems;
+
+import java.util.Scanner;
+
+public class _02SoftUniParty {
+	public static void main(String[] args) {
+		Scanner scanner = new 
+	}
+}

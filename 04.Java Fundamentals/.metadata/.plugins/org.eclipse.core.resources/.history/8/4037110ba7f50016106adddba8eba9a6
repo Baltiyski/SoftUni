@@ -1,0 +1,23 @@
+package _SetsAndMaps.LabProblems;
+
+import java.util.HashMap;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+public class _05AcademyGraduation {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int amountOfStudents = Integer.parseInt(scanner.nextLine());
+		
+		HashMap<String, Double[]> studentsAndGrades = new HashMap<>();
+		TreeMap<String, Double> result = new TreeMap<>();
+		
+		for (int i = 0; i < amountOfStudents; i++) {
+			String studentname = scanner.nextLine();
+			String[] studentGrades = scanner.nextLine().split(" ");
+			double[] grades = new double[studentGrades.length];
+			
+		}
+		
+	}
+}

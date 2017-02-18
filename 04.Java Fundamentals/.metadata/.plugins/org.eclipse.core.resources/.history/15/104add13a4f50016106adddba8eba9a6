@@ -1,0 +1,13 @@
+package _SetsAndMaps.LabProblems;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class _05AcademyGraduation {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		HashMap<String, Double[]> studentsAndGrades = new HashMap<>();
+		
+	}
+}

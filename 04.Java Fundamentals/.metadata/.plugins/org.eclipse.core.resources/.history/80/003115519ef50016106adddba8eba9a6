@@ -1,0 +1,13 @@
+package _SetsAndMaps.LabProblems;
+
+import java.util.HashSet;
+import java.util.Scanner;
+
+public class _02SoftUniParty {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		HashSet<String> guestList = new HashSet<>();
+		
+	}
+}
