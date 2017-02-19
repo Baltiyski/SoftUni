@@ -1,0 +1,13 @@
+package _SetsAndMaps.HomeProblems;
+
+import java.util.HashSet;
+import java.util.Scanner;
+
+public class _01Uniqueusernames {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int amountOfPeople = Integer.parseInt(scanner.nextLine());
+		
+		HashSet<String> uniqueName = new HashSet<>();
+	}
+}

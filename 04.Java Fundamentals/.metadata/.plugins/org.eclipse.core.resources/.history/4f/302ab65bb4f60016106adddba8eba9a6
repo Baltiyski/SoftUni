@@ -1,0 +1,19 @@
+package _SetsAndMaps.HomeProblems;
+
+import java.util.LinkedHashSet;
+import java.util.Scanner;
+
+public class _02SetsOfElements {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		String[] nM = scanner.nextLine().split(" ");
+		int n = Integer.parseInt(scanner.nextLine());
+		int m = Integer.parseInt(scanner.nextLine());
+		
+		LinkedHashSet<Integer> firstSet = new LinkedHashSet<>();
+		LinkedHashSet<Integer> secondSet = new LinkedHashSet<>();
+		
+		for
+		
+	}
+}

@@ -1,0 +1,22 @@
+package _SetsAndMaps.HomeProblems;
+
+import java.util.LinkedHashMap;
+import java.util.Scanner;
+
+public class _05Phonebook {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		LinkedHashMap<String, Integer> phonebook = new LinkedHashMap<>();
+		
+		while (true) {
+			String[] input = scanner.nextLine().split("-");
+			if ("search".equals(input[0])) {
+				break;
+			} else {
+				phonebook.put(input[0], input[1])
+			}
+		}
+		
+	}
+}

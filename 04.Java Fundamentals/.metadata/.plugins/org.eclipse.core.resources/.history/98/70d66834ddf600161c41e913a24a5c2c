@@ -1,0 +1,28 @@
+package _SetsAndMaps.HomeProblems;
+
+import java.util.LinkedHashMap;
+import java.util.Scanner;
+
+public class _07FixEmails {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		LinkedHashMap<String, String> menEmails = new LinkedHashMap<>();
+		
+		while (true) {
+			String person = scanner.nextLine();
+			if ("stop".equals(person)) {
+				break;
+			}
+			String email = scanner.nextLine();
+            String domain = email.substring(email.length()-2,email.length());
+            if("bg".equalsIgnoreCase(domain)){
+            	menEmails.put(person, email);
+            }
+		}
+		
+		for (String key : menEmails.keySet()) {
+			System.err.println(key + " -> " + menEmails.get(key));
+		}
+	}
+}

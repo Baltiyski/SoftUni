@@ -1,0 +1,19 @@
+package _SetsAndMaps.HomeProblems;
+
+import java.util.Collections;
+import java.util.Scanner;
+import java.util.TreeSet;
+
+public class _03PeriodicTabel {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int number = Integer.parseInt(scanner.nextLine());
+		
+		TreeSet<String> periodicTab = new TreeSet<>();
+		
+		for (int i = 0; i < number; i++) {
+			Collections.addAll(periodicTab, scanner.nextLine().split(" "));
+		}
+		
+	}
+}

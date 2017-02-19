@@ -1,0 +1,21 @@
+package _SetsAndMaps.HomeProblems;
+
+import java.util.LinkedHashSet;
+import java.util.Scanner;
+
+public class _01Uniqueusernames {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int amountOfPeople = Integer.parseInt(scanner.nextLine());
+		
+		LinkedHashSet<String> uniqueName = new LinkedHashSet<>();
+		for (int i = 0; i < amountOfPeople; i++) {
+			String name = scanner.nextLine();
+			uniqueName.add(name);
+		}
+		
+		for (String name : uniqueName) {
+			System.out.println(name);
+		}
+	}
+}

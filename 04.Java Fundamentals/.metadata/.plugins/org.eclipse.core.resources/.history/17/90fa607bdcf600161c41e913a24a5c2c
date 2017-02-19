@@ -1,0 +1,33 @@
+package _SetsAndMaps.HomeProblems;
+
+import java.util.LinkedHashMap;
+import java.util.Scanner;
+
+public class _07FixEmails {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		LinkedHashMap<String, String> menEmails = new LinkedHashMap<>();
+		
+		while (true) {
+			String person = scanner.nextLine();
+			if ("stop".equals(person)) {
+				break;
+			}
+			String[] emails = scanner.nextLine().split(".");
+			System.out.println(emails[1]);
+			/*
+			if ("us".equals(emails[1]) || "uk".equals(emails[1]) || "com".equals(emails[1])) {
+				
+			} else {
+				String email = emails[0] + emails[1];
+				menEmails.put(person, email);
+			}
+			*/
+		}
+		
+		for (String key : menEmails.keySet()) {
+			System.err.println(key + " -> " + menEmails.get(key));
+		}
+	}
+}

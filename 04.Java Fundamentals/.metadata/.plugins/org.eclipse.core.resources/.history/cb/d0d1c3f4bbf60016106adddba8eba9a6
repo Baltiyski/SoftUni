@@ -1,0 +1,22 @@
+package _SetsAndMaps.HomeProblems;
+
+import java.util.Scanner;
+import java.util.TreeMap;
+
+public class _04CountSymbols {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		String words = scanner.nextLine();
+		char[] array = words.toCharArray();
+		TreeMap<Character, Integer> countWords = new TreeMap<>();
+		
+		for (char i = 0; i < array.length; i++) {
+			if (!countWords.containsKey(array[i])) {
+				
+			} else {
+
+			}
+		}
+	}
+}
