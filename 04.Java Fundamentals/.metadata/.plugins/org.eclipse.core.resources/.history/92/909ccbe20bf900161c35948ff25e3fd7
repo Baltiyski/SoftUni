@@ -1,0 +1,12 @@
+package _01DefiningClasses.Lab.StaticIdAndRate;
+
+import java.awt.List;
+
+import _01DefiningClasses.Lab.BankAccEx.BankAccount;
+
+public class Person {
+	private String name;
+	private int age;
+	private List accounts;
+	
+}

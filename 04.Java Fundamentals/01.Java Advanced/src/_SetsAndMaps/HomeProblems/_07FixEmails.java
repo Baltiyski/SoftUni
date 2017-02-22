@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class _07FixEmails {
 	public static void main(String[] args) {
-		
 		Scanner scan = new Scanner(System.in);
         LinkedHashMap<String, String> emails = new LinkedHashMap<>();
 

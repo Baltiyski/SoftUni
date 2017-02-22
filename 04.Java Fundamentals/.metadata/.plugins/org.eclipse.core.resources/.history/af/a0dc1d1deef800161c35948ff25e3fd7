@@ -1,0 +1,7 @@
+package _01DefiningClasses.Lab;
+
+public class Main {
+	public Main() {
+		
+	}
+}
