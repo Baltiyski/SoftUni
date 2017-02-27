@@ -1,0 +1,15 @@
+package _01DefiningClasses.HomeExercise._03OpimionPoll;
+
+import java.util.Scanner;
+
+import _01DefiningClasses.HomeExercise._02CreatingConstructors.Person;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		int howManyPeople = Integer.parseInt(scanner.nextLine());
+		
+		Person name = new Person();
+	}
+}

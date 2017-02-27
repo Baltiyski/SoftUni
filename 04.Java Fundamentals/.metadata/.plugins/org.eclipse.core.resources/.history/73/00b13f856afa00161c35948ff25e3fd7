@@ -1,0 +1,17 @@
+package _01DefiningClasses.HomeExercise._02CreatingConstructors;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.lang.reflect.Constructor;
+
+public class Main {
+	public static void main(String[] args) throws Exception{
+		InputStreamReader isr = new InputStreamReader(System.in);
+		BufferedReader reader = new BufferedReader(isr);
+		Class personClass = Person.class;
+		Person pp = new Person();
+		
+		Constructor emptyCtor = pp.getDeclaredConstructor();
+		
+	}
+}

@@ -1,0 +1,21 @@
+package _StacksAndQueues.LabProblems;
+
+import java.util.Scanner;
+
+public class _04MatchingBrackets {
+	public static void main(String[] args) {
+		String a = "abc";
+		String b = "def";
+		String c = "";
+		if (a.length() > b.length()) {
+			for (int i = 0; i < a.length(); i++) {
+				
+			}
+		} else {
+
+		}
+		
+		
+		System.out.println(c);
+	}
+}

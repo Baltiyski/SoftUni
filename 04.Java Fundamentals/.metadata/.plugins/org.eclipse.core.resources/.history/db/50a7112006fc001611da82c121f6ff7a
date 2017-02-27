@@ -1,0 +1,20 @@
+package _01DefiningClasses.HomeExercise._03OpimionPoll;
+
+import java.util.Scanner;
+import java.util.TreeSet;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		int people = Integer.parseInt(scanner.nextLine());
+		TreeSet<Person> persons = new TreeSet<>();
+		
+		for (int i = 0; i < people; i++) {
+			String[] arg = scanner.nextLine().split("\\s+");
+			String name = arg[0];
+			Integer age = Integer.parseInt(arg[1]);
+		}
+		
+	}
+}

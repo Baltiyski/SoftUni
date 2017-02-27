@@ -1,0 +1,9 @@
+package _02Encapsulation.HomeExercise._03AnimalFarm;
+
+public class Chicken {
+	private String name;
+	private int age;
+	
+	
+	
+}

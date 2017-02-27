@@ -1,0 +1,36 @@
+package _02Encapsulation.HomeExercise._03AnimalFarm;
+
+public class Chicken {
+	private String name;
+	private int age;
+	
+	public Chicken(String name, int age) {
+		this.setName(name);
+		this.setAge(age);
+	}
+	
+	private String getName() {
+		return name;
+	}
+	
+	private void setName(String name) {
+		if (name.length() <= 0 || name.equals(" ") || name.equals(null)) {
+			throw new IllegalArgumentException("Name cannot be empty");
+		}
+		this.name = name;
+	}
+	
+	private int getAge() {
+		return age;
+	}
+	
+	private void setAge(int age) {
+		if (age <= 0 || age > 15) {
+			throw new IllegalArgumentException("Name cannot be empty");
+		}
+		this.age = age;
+	}
+	
+	
+	
+}

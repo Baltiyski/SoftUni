@@ -1,0 +1,76 @@
+package _02Encapsulation.HomeExercise._02ClassBoxDataValid;
+
+public class Box {
+	private double length;
+	private double width ;
+	private double height;
+	
+	public Box(double lenght, double width, double height) {
+		this.length = lenght;
+		this.width = width;
+		this.height = height;
+	}
+	
+	
+	
+	public double getLength() {
+		return this.length;
+	}
+
+
+
+	private void setLength(double length) {
+		if(this.length < 0) {
+			throw new IllegalArgumentException("Length cannot be zero or negative.");
+		}
+		this.length = length;
+	}
+
+
+
+	public double getWidth() {
+		return this.width;
+	}
+
+
+
+	private void setWidth(double width) {
+		if(this.width < 0) {
+			throw new IllegalArgumentException("Width cannot be zero or negative.");
+		}
+		this.width = width;
+	}
+
+
+
+	public double getHeight() {
+		return this.height;
+	}
+
+
+
+	private void setHeight(double height) {
+		if(this.height < 0) {
+			throw new IllegalArgumentException("Height cannot be zero or negative.");
+		}
+		this.height = height;
+	}
+
+
+
+	public double surfaceArea(double l, double w, double h) {
+		double area = (2*l*w) + (2*l*h) + (2*w*h);
+		return area;
+	}
+	
+	public double lateralSurfArea(double l, double w, double h) {
+		double area = (2*l*h) + (2*w*h);
+		return area;
+	}
+	
+	public double volume(double l, double w, double h) {
+		double area = l * w * h;
+		return area;
+	}
+	
+}

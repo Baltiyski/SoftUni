@@ -1,0 +1,5 @@
+package _01DefiningClasses.HomeExercise._04CompanyRoste;
+
+public class Employee extends Person{
+	
+}

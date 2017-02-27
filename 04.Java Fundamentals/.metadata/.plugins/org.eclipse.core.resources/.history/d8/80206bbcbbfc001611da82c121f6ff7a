@@ -1,0 +1,5 @@
+package _02Encapsulation.Lab._01SortPersons;
+
+public class Person {
+
+}

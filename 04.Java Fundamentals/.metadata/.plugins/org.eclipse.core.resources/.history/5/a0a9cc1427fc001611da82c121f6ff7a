@@ -1,0 +1,19 @@
+package _01DefiningClasses.HomeExercise._04CompanyRoste;
+
+public class Employee extends Person{	
+	private final static Ò“–»Õ√ DEFAULT_EMAIL = "n/a";
+	
+	private double salary;
+	private String position;
+	private String department;
+	private String email;
+	
+	public Employee(String name) {
+		super(name);
+	}
+	
+	public Employee(String name, int age) {
+		super(name, age);
+	}
+	
+}

@@ -1,0 +1,8 @@
+package _01DefiningClasses.HomeExercise._02CreatingConstructors;
+
+public class Main {
+	public static void main(String[] args) throws Exception{
+		int n = 25;
+		System.out.println(n / 2);
+	}
+}

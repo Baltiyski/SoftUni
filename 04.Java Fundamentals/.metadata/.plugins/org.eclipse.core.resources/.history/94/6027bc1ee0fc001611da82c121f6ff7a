@@ -1,0 +1,9 @@
+
+public class Test {
+	public static void main(String[] args) {
+		int num = 124;
+		String by = Integer.toBinaryString(num);
+		System.out.println(by);
+		
+	}
+}
