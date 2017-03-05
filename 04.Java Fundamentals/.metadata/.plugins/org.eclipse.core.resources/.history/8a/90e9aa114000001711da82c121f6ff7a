@@ -1,0 +1,19 @@
+
+public class Test {
+	public static void main(String[] args) {
+		int min =0;
+		min(10.20 min);
+		System.out.println(min);
+		
+	}
+	
+	public static void min(int n, int,b int, m){
+		if(n > b) {
+			min = n;
+		}
+		else {
+			min = b;
+		}
+	}
+	
+}

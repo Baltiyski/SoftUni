@@ -1,0 +1,19 @@
+
+public class Test {
+	public static void main(String[] args) {
+		int n =12;
+		System.out.println(factorial(8));
+		
+	}
+	
+	public static long factorial(int n) {
+	    // The bottom of the recursion
+	    if (n == 0) {
+	        return 1;
+	    }
+	    // Recursive call: the method calls itself
+	    else {
+	        return n * factorial(n - 1);
+	    }
+	}
+}

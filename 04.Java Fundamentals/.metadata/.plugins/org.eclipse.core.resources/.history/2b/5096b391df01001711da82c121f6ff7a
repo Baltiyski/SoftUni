@@ -1,0 +1,17 @@
+package _03Inheritance.Lab_04FragileBaseClass;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class Animal {
+	
+	protected ArrayList<Food> foodEaten;
+	
+	public final void eat(Food food) {
+		this.foodEaten.add(food);
+	}
+	
+	public void eatAll(Food[] food){
+		Collections.addAll(this.foodEaten, foods);
+	}
+}

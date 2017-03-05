@@ -1,0 +1,15 @@
+
+public class Test {
+	public static void main(String[] args) {
+		int l = 34;
+		Integer i = 34;
+		
+		if (i.equals(l)) {
+			System.out.println(true);
+		} else {
+			System.out.println(false);
+		}
+		
+	}
+	
+}

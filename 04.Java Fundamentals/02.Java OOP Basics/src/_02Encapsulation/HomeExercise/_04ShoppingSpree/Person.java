@@ -1,6 +1,5 @@
 package _02Encapsulation.HomeExercise._04ShoppingSpree;
 
-import java.net.PortUnreachableException;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,0 +1,5 @@
+package _03Inheritance.Lab_04FragileBaseClass;
+
+public class Predator {
+
+}

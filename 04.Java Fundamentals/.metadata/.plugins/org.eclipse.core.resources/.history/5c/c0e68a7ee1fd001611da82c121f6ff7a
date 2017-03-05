@@ -1,0 +1,15 @@
+
+public class Test {
+	public static void main(String[] args) {
+		int n = 100;
+		
+		int number = 1;
+		
+		
+		System.out.printf("%s %s", number, number);
+		
+		for (int i = 0; i < n; i++) {
+			
+		}
+	}
+}
