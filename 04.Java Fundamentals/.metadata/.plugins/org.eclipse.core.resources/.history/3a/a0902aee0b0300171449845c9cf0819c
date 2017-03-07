@@ -1,0 +1,5 @@
+package _03Inheritance.HomeExercise._03Mankind;
+
+public class Student extends Human{
+
+}

@@ -1,0 +1,45 @@
+package _03Inheritance.HomeExercise._02BookShop;
+
+public class Book {
+	private String author;
+	private String title;
+	private double price;
+	
+	public Book(String author, String title, double price) {
+		this.setAuthor(author);
+		this.setTitle(title);
+		this.setPrice(price);
+	}
+
+	private String getAuthor() {
+		return author;
+	}
+
+	private void setAuthor(String author){
+		String[] authorNames = author.split("");
+		char[] authorLastName = authorNames[1].toCharArray();
+		if(Character.isDigit(authorLastName[0])) {
+			
+		}
+		this.author = author;
+	}
+
+	private String getTitle() {
+		return title;
+	}
+
+	private void setTitle(String title) {
+		this.title = title;
+	}
+
+	private double getPrice() {
+		return price;
+	}
+
+	private void setPrice(double price) {
+		this.price = price;
+	}
+	
+	
+	
+}

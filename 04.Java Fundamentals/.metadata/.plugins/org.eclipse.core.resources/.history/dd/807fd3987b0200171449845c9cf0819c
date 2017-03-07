@@ -1,0 +1,29 @@
+package _03Inheritance.HomeExercise._01Person;
+
+public class Person {
+	private String name;
+	private int age;
+	
+	public Person(String name, int age) {
+		this.setAge(age);
+		this.setName(name);
+	}
+	
+	private String getName() {
+		return name;
+	}
+	private void setName(String name) {
+		this.name = name;
+	}
+	private int getAge() {
+		return age;
+	}
+	protected void setAge(Integer age) throws IllegalArgumentException {
+		if(age < 1) {
+			throw new IllegalArgumentException("Age must be positive!");
+		}
+		this.age = age;
+	}
+	
+	
+}

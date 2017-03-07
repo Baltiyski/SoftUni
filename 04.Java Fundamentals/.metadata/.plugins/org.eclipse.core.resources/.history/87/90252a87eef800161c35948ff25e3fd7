@@ -1,6 +1,0 @@
-package _01DefiningClasses.Lab;
-
-public class BankAccount {
-	public int id;
-	public double balance;
-}

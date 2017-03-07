@@ -1,7 +1,0 @@
-package _StacksAndQueues.HomeProblems;
-
-public class _03MaximumElemet {
-	public static void main(String[] args) {
-		
-	}
-}

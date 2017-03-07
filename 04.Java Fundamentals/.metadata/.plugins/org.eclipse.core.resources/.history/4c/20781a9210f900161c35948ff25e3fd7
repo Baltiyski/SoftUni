@@ -1,6 +1,0 @@
-package _01DefiningClasses.HomeExercise;
-
-public class Person {
-	 String name;
-	 int age;
-}

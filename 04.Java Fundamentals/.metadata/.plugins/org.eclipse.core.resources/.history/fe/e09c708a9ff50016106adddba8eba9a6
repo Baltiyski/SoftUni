@@ -1,9 +1,0 @@
-package _SetsAndMaps.LabProblems;
-
-import java.util.Scanner;
-
-public class _03War {
-	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
-	}
-}

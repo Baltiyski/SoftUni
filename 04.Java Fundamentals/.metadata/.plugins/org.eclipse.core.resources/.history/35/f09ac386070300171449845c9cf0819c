@@ -1,0 +1,10 @@
+package _03Inheritance.HomeExercise._03Mankind;
+
+public class Human {
+	private String firstname;
+	private String lastname;
+	
+	private String getFirstName(String firstName) {
+		return firstName;
+	}
+}

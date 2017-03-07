@@ -1,7 +1,0 @@
-package _StacksAndQueues.LabProblems;
-
-public class _03DecimalToBinary {
-	public static void main(String[] args) {
-		
-	}
-}

@@ -1,0 +1,11 @@
+package _03Inheritance.HomeExercise._03Mankind;
+
+public class Student extends Human{
+	private int facultyNum;
+	
+	public Student(String firstName, String lastName) {
+		super(firstName, lastName);
+		// TODO Auto-generated constructor stub
+	}
+
+}

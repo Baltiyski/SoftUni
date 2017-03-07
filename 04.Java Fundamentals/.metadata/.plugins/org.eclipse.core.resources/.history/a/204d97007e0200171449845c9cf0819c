@@ -1,0 +1,24 @@
+package _03Inheritance.HomeExercise._01Person;
+
+public class Child extends Person{
+
+	public Child(String name, int age) {
+		super(name, age);
+		// TODO Auto-generated constructor stub
+	}
+	
+	protected void setAge(Integer age) throws IllegalArgumentException{
+		if(age > 15) {
+			throw new IllegalArgumentException("Child’s age must be less than 15!");
+		}
+		super.setAge(age);
+	}
+	
+	@Override
+	public String toString() {
+		StringBuilder stringBuild = new StringBuilder();
+		stringBuild.append(String.format(this.getName(), this.getAge()));
+		
+		return stringBuild.toString();
+	}
+}
