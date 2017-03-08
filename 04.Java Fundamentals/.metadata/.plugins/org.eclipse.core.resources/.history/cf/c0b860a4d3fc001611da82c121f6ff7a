@@ -1,9 +1,0 @@
-package _02Encapsulation.HomeExercise._01ClassBox;
-
-public class Box {
-	private double length;
-	private double width ;
-	private double height;
-
-	
-}

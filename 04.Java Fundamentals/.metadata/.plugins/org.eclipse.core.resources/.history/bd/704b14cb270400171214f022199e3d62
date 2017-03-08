@@ -1,0 +1,7 @@
+package _03Inheritance.HomeExercise._05OnlineRadioDatabase;
+
+public class Main extends Puma{
+	public static void main(String[] args) {
+		
+	}
+}

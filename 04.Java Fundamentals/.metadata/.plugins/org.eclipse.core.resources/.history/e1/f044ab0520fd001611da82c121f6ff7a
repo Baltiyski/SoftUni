@@ -1,6 +1,0 @@
-package _02Encapsulation.HomeExercise._04ShoppingSpree;
-
-public class Product {
-	private String name;
-	private double cost;
-}

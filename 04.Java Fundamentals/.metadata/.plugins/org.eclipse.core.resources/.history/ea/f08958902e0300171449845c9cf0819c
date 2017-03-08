@@ -1,0 +1,21 @@
+package _03Inheritance.HomeExercise._04MordorsCrueltyPlan;
+
+public class Food {
+	private int points;
+	
+	public int getPoints() {
+		return this.points;
+	}
+	
+	public void eatFood(String food) {
+		switch (food.toLowerCase()) {
+		case value:
+			
+			break;
+
+		default:
+			break;
+		}
+	}
+	
+}
