@@ -1,0 +1,16 @@
+
+public class Test {
+	static boolean check;
+	public static void main(String[] args) {
+		int i;
+		
+		if(check == true){
+			i = 1;
+		}
+		else {
+			
+		}
+		
+	}
+
+}

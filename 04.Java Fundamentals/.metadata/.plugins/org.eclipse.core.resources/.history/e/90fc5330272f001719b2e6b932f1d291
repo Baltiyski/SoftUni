@@ -1,0 +1,9 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		int i = 14^23;
+		System.out.println(i);
+	}
+
+}

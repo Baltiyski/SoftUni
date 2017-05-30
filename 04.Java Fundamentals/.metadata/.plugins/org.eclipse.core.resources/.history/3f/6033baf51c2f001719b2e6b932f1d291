@@ -1,0 +1,10 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		String news = new String("example");
+		System.out.println(news.substring(2,4));
+
+	}
+
+}
