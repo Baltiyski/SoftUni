@@ -1,7 +1,0 @@
-package _03Inheritance.HomeExercise._05OnlineRadioDatabase;
-
-abstract class Puma implements HasTail{
-	 public int getTailLenght() {
-		return 3;
-	}
-}

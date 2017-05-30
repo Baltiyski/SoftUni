@@ -1,9 +1,0 @@
-package _03Inheritance.Lab_04FragileBaseClass;
-
-import java.util.ArrayList;
-
-public class Animal {
-	
-	protected ArrayList<Food> foodEaten;
-	
-}

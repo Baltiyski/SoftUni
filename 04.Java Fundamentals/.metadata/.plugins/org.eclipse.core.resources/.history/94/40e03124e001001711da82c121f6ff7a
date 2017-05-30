@@ -1,7 +1,0 @@
-package _03Inheritance.Lab_04FragileBaseClass;
-
-public class Main {
-	public Main() {
-		// TODO Auto-generated constructor stub
-	}
-}

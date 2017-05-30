@@ -1,5 +1,0 @@
-package _03Inheritance.HomeExercise._05OnlineRadioDatabase;
-
-public interface HasTail {
-	int getTailLenght();
-}

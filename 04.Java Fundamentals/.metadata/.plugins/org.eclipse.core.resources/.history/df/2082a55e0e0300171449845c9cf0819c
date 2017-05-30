@@ -1,8 +1,0 @@
-package _03Inheritance.HomeExercise._03Mankind;
-
-public class Worker extends Human{
-	private double salary;
-	private int workingHours;
-	
-	
-}

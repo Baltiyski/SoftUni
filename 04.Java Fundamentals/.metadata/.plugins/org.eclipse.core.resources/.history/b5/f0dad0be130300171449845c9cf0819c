@@ -1,9 +1,0 @@
-package _03Inheritance.HomeExercise._03Mankind;
-
-import java.io.BufferedReader;
-
-public class Main {
-	public static void main(String[] args) {
-		BufferedReader read = new BufferedReader();
-	}
-}

@@ -1,5 +1,0 @@
-package _03Inheritance.HomeExercise._01Person;
-
-public class Child extends Person{
-	
-}
